@@ -1,0 +1,39 @@
+name: Daily Knowledge Discovery
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 11:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  learn:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Knowledge Agent
+        run: python agent/knowledge_agent.py
+
+      - name: Commit new knowledge
+        run: |
+          git config user.name "Mycelium Knowledge Bot"
+          git config user.email "bot@meeko-mycelium.dev"
+          git add data/ guides/
+          if git diff --staged --quiet; then
+            echo "No new knowledge today"
+          else
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "knowledge: daily digest ${DATE}"
+            git push
+          fi
