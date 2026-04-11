@@ -22,5 +22,13 @@
     "date": "2026-04-10",
     "free_path": "guides/free/list-of-highest-grossing-indian-films.md",
     "premium_path": "guides/premium/list-of-highest-grossing-indian-films.md"
+  },
+  {
+    "topic": "List of highest-grossing Indian films",
+    "slug": "list-of-highest-grossing-indian-films",
+    "category": "finance",
+    "date": "2026-04-11",
+    "free_path": "guides/free/list-of-highest-grossing-indian-films.md",
+    "premium_path": "guides/premium/list-of-highest-grossing-indian-films.md"
   }
 ]

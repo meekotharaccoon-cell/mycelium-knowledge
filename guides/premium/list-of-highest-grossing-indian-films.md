@@ -1,5 +1,5 @@
 # List of highest-grossing Indian films - Complete Guide
-*Category: finance | Generated: 2026-04-10*
+*Category: finance | Generated: 2026-04-11*
 
 ## Overview
 
