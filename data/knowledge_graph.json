@@ -3,7 +3,7 @@
     "0eba4ee67b9a": {
       "title": "Artemis II",
       "category": "tech",
-      "last_seen": "2026-04-11",
+      "last_seen": "2026-04-12",
       "sources": [
         "wikipedia"
       ]
@@ -11,7 +11,7 @@
     "14c3d0670fea": {
       "title": "Dhurandhar: The Revenge",
       "category": "tech",
-      "last_seen": "2026-04-11",
+      "last_seen": "2026-04-12",
       "sources": [
         "wikipedia"
       ]
@@ -51,7 +51,7 @@
     "2c98a6f57886": {
       "title": "Reid Wiseman",
       "category": "tech",
-      "last_seen": "2026-04-08",
+      "last_seen": "2026-04-12",
       "sources": [
         "wikipedia"
       ]
@@ -691,7 +691,7 @@
     "f8f45fb4f782": {
       "title": "Malcolm in the Middle: Life's Still Unfair",
       "category": "tech",
-      "last_seen": "2026-04-11",
+      "last_seen": "2026-04-12",
       "sources": [
         "wikipedia"
       ]
@@ -836,6 +836,214 @@
       "title": "Productive Procrastination",
       "category": "tech",
       "last_seen": "2026-04-11",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "4b45a4391fa9": {
+      "title": "MiniMax M2.7 Is Now Open Source",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "2a6f43e53edf": {
+      "title": "Eric Swalwell",
+      "category": "legal-rights",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "e4f290d5a599": {
+      "title": "Christina Koch",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "a2f1dd9446cb": {
+      "title": "Arslanbek Makhmudov",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "db9c4225a80c": {
+      "title": "Rory McIlroy",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "939f53f0eb29": {
+      "title": "Victor Glover",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "ae682a352165": {
+      "title": "Tyson Fury",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "64c1f41b017d": {
+      "title": "A fire broke out near Valpara\u00edso, Chile, eventually destroying at least 2,500 homes and leaving approximately 11,000 peo",
+      "category": "survival",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "0a39639486d8": {
+      "title": "Four Chadian soldiers were killed in a suicide bombing by jihadist rebels in Kidal, Mali.",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "130299f94502": {
+      "title": "The Guinea-Bissau military seized control in a coup amid a presidential election, later handing power to a transitional ",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "52535c4e74f1": {
+      "title": "Husband-and-wife law partners Laurence Canter and Martha Siegel posted the first massive commercial spam on Usenet.",
+      "category": "legal-rights",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "443c61029e3b": {
+      "title": "Bosnian War: NATO forces began Operation Deny Flight to enforce a no-fly zone over Bosnia and Herzegovina ordered by the",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "009ebc870bf5": {
+      "title": "JVM Options Explorer",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d9a13a42a817": {
+      "title": "What have been the greatest intellectual achievements?",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "df84715a8095": {
+      "title": "An Interview with Pat Gelsinger",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "f5324ef5decd": {
+      "title": "The Miller Principle (2007)",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "4808a2cafa4d": {
+      "title": "Apple update looks like Czech mate for locked-out iPhone user",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "2a0423211373": {
+      "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "664bfeb17039": {
+      "title": "Tofolli gates are all you need",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "a696078b381f": {
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "da48e4af626f": {
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "68d03696dea2": {
+      "title": "The End of Eleventy",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "93c6dfbce3bf": {
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "5d4d6209f44b": {
+      "title": "Stewart Brand on How Progress Happens",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "7423f7a6d161": {
+      "title": "How Complex is my Code?",
+      "category": "tech",
+      "last_seen": "2026-04-12",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "c148def6ae59": {
+      "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
+      "category": "tech",
+      "last_seen": "2026-04-12",
       "sources": [
         "hackernews"
       ]
@@ -6505,6 +6713,1394 @@
     [
       "c6f5f3e3f064",
       "cd8229f0fd68"
+    ],
+    [
+      "0eba4ee67b9a",
+      "4b45a4391fa9"
+    ],
+    [
+      "4b45a4391fa9",
+      "e4f290d5a599"
+    ],
+    [
+      "4b45a4391fa9",
+      "a2f1dd9446cb"
+    ],
+    [
+      "4b45a4391fa9",
+      "db9c4225a80c"
+    ],
+    [
+      "14c3d0670fea",
+      "4b45a4391fa9"
+    ],
+    [
+      "2c98a6f57886",
+      "4b45a4391fa9"
+    ],
+    [
+      "4b45a4391fa9",
+      "939f53f0eb29"
+    ],
+    [
+      "4b45a4391fa9",
+      "f8f45fb4f782"
+    ],
+    [
+      "4b45a4391fa9",
+      "ae682a352165"
+    ],
+    [
+      "0a39639486d8",
+      "4b45a4391fa9"
+    ],
+    [
+      "130299f94502",
+      "4b45a4391fa9"
+    ],
+    [
+      "443c61029e3b",
+      "4b45a4391fa9"
+    ],
+    [
+      "009ebc870bf5",
+      "4b45a4391fa9"
+    ],
+    [
+      "4b45a4391fa9",
+      "d9a13a42a817"
+    ],
+    [
+      "4b45a4391fa9",
+      "df84715a8095"
+    ],
+    [
+      "4b45a4391fa9",
+      "f5324ef5decd"
+    ],
+    [
+      "4808a2cafa4d",
+      "4b45a4391fa9"
+    ],
+    [
+      "2a0423211373",
+      "4b45a4391fa9"
+    ],
+    [
+      "4b45a4391fa9",
+      "664bfeb17039"
+    ],
+    [
+      "4b45a4391fa9",
+      "a696078b381f"
+    ],
+    [
+      "4b45a4391fa9",
+      "da48e4af626f"
+    ],
+    [
+      "4b45a4391fa9",
+      "68d03696dea2"
+    ],
+    [
+      "4b45a4391fa9",
+      "93c6dfbce3bf"
+    ],
+    [
+      "4b45a4391fa9",
+      "5d4d6209f44b"
+    ],
+    [
+      "4b45a4391fa9",
+      "7423f7a6d161"
+    ],
+    [
+      "4b45a4391fa9",
+      "c148def6ae59"
+    ],
+    [
+      "0eba4ee67b9a",
+      "e4f290d5a599"
+    ],
+    [
+      "0eba4ee67b9a",
+      "a2f1dd9446cb"
+    ],
+    [
+      "0eba4ee67b9a",
+      "db9c4225a80c"
+    ],
+    [
+      "0eba4ee67b9a",
+      "939f53f0eb29"
+    ],
+    [
+      "0eba4ee67b9a",
+      "ae682a352165"
+    ],
+    [
+      "0a39639486d8",
+      "0eba4ee67b9a"
+    ],
+    [
+      "0eba4ee67b9a",
+      "130299f94502"
+    ],
+    [
+      "0eba4ee67b9a",
+      "443c61029e3b"
+    ],
+    [
+      "009ebc870bf5",
+      "0eba4ee67b9a"
+    ],
+    [
+      "0eba4ee67b9a",
+      "d9a13a42a817"
+    ],
+    [
+      "0eba4ee67b9a",
+      "df84715a8095"
+    ],
+    [
+      "0eba4ee67b9a",
+      "f5324ef5decd"
+    ],
+    [
+      "0eba4ee67b9a",
+      "4808a2cafa4d"
+    ],
+    [
+      "0eba4ee67b9a",
+      "2a0423211373"
+    ],
+    [
+      "0eba4ee67b9a",
+      "664bfeb17039"
+    ],
+    [
+      "0eba4ee67b9a",
+      "a696078b381f"
+    ],
+    [
+      "0eba4ee67b9a",
+      "da48e4af626f"
+    ],
+    [
+      "0eba4ee67b9a",
+      "68d03696dea2"
+    ],
+    [
+      "0eba4ee67b9a",
+      "93c6dfbce3bf"
+    ],
+    [
+      "0eba4ee67b9a",
+      "5d4d6209f44b"
+    ],
+    [
+      "0eba4ee67b9a",
+      "7423f7a6d161"
+    ],
+    [
+      "0eba4ee67b9a",
+      "c148def6ae59"
+    ],
+    [
+      "2a6f43e53edf",
+      "52535c4e74f1"
+    ],
+    [
+      "a2f1dd9446cb",
+      "e4f290d5a599"
+    ],
+    [
+      "db9c4225a80c",
+      "e4f290d5a599"
+    ],
+    [
+      "14c3d0670fea",
+      "e4f290d5a599"
+    ],
+    [
+      "2c98a6f57886",
+      "e4f290d5a599"
+    ],
+    [
+      "939f53f0eb29",
+      "e4f290d5a599"
+    ],
+    [
+      "e4f290d5a599",
+      "f8f45fb4f782"
+    ],
+    [
+      "ae682a352165",
+      "e4f290d5a599"
+    ],
+    [
+      "0a39639486d8",
+      "e4f290d5a599"
+    ],
+    [
+      "130299f94502",
+      "e4f290d5a599"
+    ],
+    [
+      "443c61029e3b",
+      "e4f290d5a599"
+    ],
+    [
+      "009ebc870bf5",
+      "e4f290d5a599"
+    ],
+    [
+      "d9a13a42a817",
+      "e4f290d5a599"
+    ],
+    [
+      "df84715a8095",
+      "e4f290d5a599"
+    ],
+    [
+      "e4f290d5a599",
+      "f5324ef5decd"
+    ],
+    [
+      "4808a2cafa4d",
+      "e4f290d5a599"
+    ],
+    [
+      "2a0423211373",
+      "e4f290d5a599"
+    ],
+    [
+      "664bfeb17039",
+      "e4f290d5a599"
+    ],
+    [
+      "a696078b381f",
+      "e4f290d5a599"
+    ],
+    [
+      "da48e4af626f",
+      "e4f290d5a599"
+    ],
+    [
+      "68d03696dea2",
+      "e4f290d5a599"
+    ],
+    [
+      "93c6dfbce3bf",
+      "e4f290d5a599"
+    ],
+    [
+      "5d4d6209f44b",
+      "e4f290d5a599"
+    ],
+    [
+      "7423f7a6d161",
+      "e4f290d5a599"
+    ],
+    [
+      "c148def6ae59",
+      "e4f290d5a599"
+    ],
+    [
+      "a2f1dd9446cb",
+      "db9c4225a80c"
+    ],
+    [
+      "14c3d0670fea",
+      "a2f1dd9446cb"
+    ],
+    [
+      "2c98a6f57886",
+      "a2f1dd9446cb"
+    ],
+    [
+      "939f53f0eb29",
+      "a2f1dd9446cb"
+    ],
+    [
+      "a2f1dd9446cb",
+      "f8f45fb4f782"
+    ],
+    [
+      "a2f1dd9446cb",
+      "ae682a352165"
+    ],
+    [
+      "0a39639486d8",
+      "a2f1dd9446cb"
+    ],
+    [
+      "130299f94502",
+      "a2f1dd9446cb"
+    ],
+    [
+      "443c61029e3b",
+      "a2f1dd9446cb"
+    ],
+    [
+      "009ebc870bf5",
+      "a2f1dd9446cb"
+    ],
+    [
+      "a2f1dd9446cb",
+      "d9a13a42a817"
+    ],
+    [
+      "a2f1dd9446cb",
+      "df84715a8095"
+    ],
+    [
+      "a2f1dd9446cb",
+      "f5324ef5decd"
+    ],
+    [
+      "4808a2cafa4d",
+      "a2f1dd9446cb"
+    ],
+    [
+      "2a0423211373",
+      "a2f1dd9446cb"
+    ],
+    [
+      "664bfeb17039",
+      "a2f1dd9446cb"
+    ],
+    [
+      "a2f1dd9446cb",
+      "a696078b381f"
+    ],
+    [
+      "a2f1dd9446cb",
+      "da48e4af626f"
+    ],
+    [
+      "68d03696dea2",
+      "a2f1dd9446cb"
+    ],
+    [
+      "93c6dfbce3bf",
+      "a2f1dd9446cb"
+    ],
+    [
+      "5d4d6209f44b",
+      "a2f1dd9446cb"
+    ],
+    [
+      "7423f7a6d161",
+      "a2f1dd9446cb"
+    ],
+    [
+      "a2f1dd9446cb",
+      "c148def6ae59"
+    ],
+    [
+      "14c3d0670fea",
+      "db9c4225a80c"
+    ],
+    [
+      "2c98a6f57886",
+      "db9c4225a80c"
+    ],
+    [
+      "939f53f0eb29",
+      "db9c4225a80c"
+    ],
+    [
+      "db9c4225a80c",
+      "f8f45fb4f782"
+    ],
+    [
+      "ae682a352165",
+      "db9c4225a80c"
+    ],
+    [
+      "0a39639486d8",
+      "db9c4225a80c"
+    ],
+    [
+      "130299f94502",
+      "db9c4225a80c"
+    ],
+    [
+      "443c61029e3b",
+      "db9c4225a80c"
+    ],
+    [
+      "009ebc870bf5",
+      "db9c4225a80c"
+    ],
+    [
+      "d9a13a42a817",
+      "db9c4225a80c"
+    ],
+    [
+      "db9c4225a80c",
+      "df84715a8095"
+    ],
+    [
+      "db9c4225a80c",
+      "f5324ef5decd"
+    ],
+    [
+      "4808a2cafa4d",
+      "db9c4225a80c"
+    ],
+    [
+      "2a0423211373",
+      "db9c4225a80c"
+    ],
+    [
+      "664bfeb17039",
+      "db9c4225a80c"
+    ],
+    [
+      "a696078b381f",
+      "db9c4225a80c"
+    ],
+    [
+      "da48e4af626f",
+      "db9c4225a80c"
+    ],
+    [
+      "68d03696dea2",
+      "db9c4225a80c"
+    ],
+    [
+      "93c6dfbce3bf",
+      "db9c4225a80c"
+    ],
+    [
+      "5d4d6209f44b",
+      "db9c4225a80c"
+    ],
+    [
+      "7423f7a6d161",
+      "db9c4225a80c"
+    ],
+    [
+      "c148def6ae59",
+      "db9c4225a80c"
+    ],
+    [
+      "14c3d0670fea",
+      "939f53f0eb29"
+    ],
+    [
+      "14c3d0670fea",
+      "ae682a352165"
+    ],
+    [
+      "0a39639486d8",
+      "14c3d0670fea"
+    ],
+    [
+      "130299f94502",
+      "14c3d0670fea"
+    ],
+    [
+      "14c3d0670fea",
+      "443c61029e3b"
+    ],
+    [
+      "009ebc870bf5",
+      "14c3d0670fea"
+    ],
+    [
+      "14c3d0670fea",
+      "d9a13a42a817"
+    ],
+    [
+      "14c3d0670fea",
+      "df84715a8095"
+    ],
+    [
+      "14c3d0670fea",
+      "f5324ef5decd"
+    ],
+    [
+      "14c3d0670fea",
+      "4808a2cafa4d"
+    ],
+    [
+      "14c3d0670fea",
+      "2a0423211373"
+    ],
+    [
+      "14c3d0670fea",
+      "664bfeb17039"
+    ],
+    [
+      "14c3d0670fea",
+      "a696078b381f"
+    ],
+    [
+      "14c3d0670fea",
+      "da48e4af626f"
+    ],
+    [
+      "14c3d0670fea",
+      "68d03696dea2"
+    ],
+    [
+      "14c3d0670fea",
+      "93c6dfbce3bf"
+    ],
+    [
+      "14c3d0670fea",
+      "5d4d6209f44b"
+    ],
+    [
+      "14c3d0670fea",
+      "7423f7a6d161"
+    ],
+    [
+      "14c3d0670fea",
+      "c148def6ae59"
+    ],
+    [
+      "2c98a6f57886",
+      "939f53f0eb29"
+    ],
+    [
+      "2c98a6f57886",
+      "f8f45fb4f782"
+    ],
+    [
+      "2c98a6f57886",
+      "ae682a352165"
+    ],
+    [
+      "0a39639486d8",
+      "2c98a6f57886"
+    ],
+    [
+      "130299f94502",
+      "2c98a6f57886"
+    ],
+    [
+      "2c98a6f57886",
+      "443c61029e3b"
+    ],
+    [
+      "009ebc870bf5",
+      "2c98a6f57886"
+    ],
+    [
+      "2c98a6f57886",
+      "d9a13a42a817"
+    ],
+    [
+      "2c98a6f57886",
+      "df84715a8095"
+    ],
+    [
+      "2c98a6f57886",
+      "f5324ef5decd"
+    ],
+    [
+      "2c98a6f57886",
+      "4808a2cafa4d"
+    ],
+    [
+      "2a0423211373",
+      "2c98a6f57886"
+    ],
+    [
+      "2c98a6f57886",
+      "664bfeb17039"
+    ],
+    [
+      "2c98a6f57886",
+      "a696078b381f"
+    ],
+    [
+      "2c98a6f57886",
+      "da48e4af626f"
+    ],
+    [
+      "2c98a6f57886",
+      "68d03696dea2"
+    ],
+    [
+      "2c98a6f57886",
+      "93c6dfbce3bf"
+    ],
+    [
+      "2c98a6f57886",
+      "5d4d6209f44b"
+    ],
+    [
+      "2c98a6f57886",
+      "7423f7a6d161"
+    ],
+    [
+      "2c98a6f57886",
+      "c148def6ae59"
+    ],
+    [
+      "939f53f0eb29",
+      "f8f45fb4f782"
+    ],
+    [
+      "939f53f0eb29",
+      "ae682a352165"
+    ],
+    [
+      "0a39639486d8",
+      "939f53f0eb29"
+    ],
+    [
+      "130299f94502",
+      "939f53f0eb29"
+    ],
+    [
+      "443c61029e3b",
+      "939f53f0eb29"
+    ],
+    [
+      "009ebc870bf5",
+      "939f53f0eb29"
+    ],
+    [
+      "939f53f0eb29",
+      "d9a13a42a817"
+    ],
+    [
+      "939f53f0eb29",
+      "df84715a8095"
+    ],
+    [
+      "939f53f0eb29",
+      "f5324ef5decd"
+    ],
+    [
+      "4808a2cafa4d",
+      "939f53f0eb29"
+    ],
+    [
+      "2a0423211373",
+      "939f53f0eb29"
+    ],
+    [
+      "664bfeb17039",
+      "939f53f0eb29"
+    ],
+    [
+      "939f53f0eb29",
+      "a696078b381f"
+    ],
+    [
+      "939f53f0eb29",
+      "da48e4af626f"
+    ],
+    [
+      "68d03696dea2",
+      "939f53f0eb29"
+    ],
+    [
+      "939f53f0eb29",
+      "93c6dfbce3bf"
+    ],
+    [
+      "5d4d6209f44b",
+      "939f53f0eb29"
+    ],
+    [
+      "7423f7a6d161",
+      "939f53f0eb29"
+    ],
+    [
+      "939f53f0eb29",
+      "c148def6ae59"
+    ],
+    [
+      "ae682a352165",
+      "f8f45fb4f782"
+    ],
+    [
+      "0a39639486d8",
+      "f8f45fb4f782"
+    ],
+    [
+      "130299f94502",
+      "f8f45fb4f782"
+    ],
+    [
+      "443c61029e3b",
+      "f8f45fb4f782"
+    ],
+    [
+      "009ebc870bf5",
+      "f8f45fb4f782"
+    ],
+    [
+      "d9a13a42a817",
+      "f8f45fb4f782"
+    ],
+    [
+      "df84715a8095",
+      "f8f45fb4f782"
+    ],
+    [
+      "f5324ef5decd",
+      "f8f45fb4f782"
+    ],
+    [
+      "4808a2cafa4d",
+      "f8f45fb4f782"
+    ],
+    [
+      "2a0423211373",
+      "f8f45fb4f782"
+    ],
+    [
+      "664bfeb17039",
+      "f8f45fb4f782"
+    ],
+    [
+      "a696078b381f",
+      "f8f45fb4f782"
+    ],
+    [
+      "da48e4af626f",
+      "f8f45fb4f782"
+    ],
+    [
+      "68d03696dea2",
+      "f8f45fb4f782"
+    ],
+    [
+      "93c6dfbce3bf",
+      "f8f45fb4f782"
+    ],
+    [
+      "5d4d6209f44b",
+      "f8f45fb4f782"
+    ],
+    [
+      "7423f7a6d161",
+      "f8f45fb4f782"
+    ],
+    [
+      "c148def6ae59",
+      "f8f45fb4f782"
+    ],
+    [
+      "0a39639486d8",
+      "ae682a352165"
+    ],
+    [
+      "130299f94502",
+      "ae682a352165"
+    ],
+    [
+      "443c61029e3b",
+      "ae682a352165"
+    ],
+    [
+      "009ebc870bf5",
+      "ae682a352165"
+    ],
+    [
+      "ae682a352165",
+      "d9a13a42a817"
+    ],
+    [
+      "ae682a352165",
+      "df84715a8095"
+    ],
+    [
+      "ae682a352165",
+      "f5324ef5decd"
+    ],
+    [
+      "4808a2cafa4d",
+      "ae682a352165"
+    ],
+    [
+      "2a0423211373",
+      "ae682a352165"
+    ],
+    [
+      "664bfeb17039",
+      "ae682a352165"
+    ],
+    [
+      "a696078b381f",
+      "ae682a352165"
+    ],
+    [
+      "ae682a352165",
+      "da48e4af626f"
+    ],
+    [
+      "68d03696dea2",
+      "ae682a352165"
+    ],
+    [
+      "93c6dfbce3bf",
+      "ae682a352165"
+    ],
+    [
+      "5d4d6209f44b",
+      "ae682a352165"
+    ],
+    [
+      "7423f7a6d161",
+      "ae682a352165"
+    ],
+    [
+      "ae682a352165",
+      "c148def6ae59"
+    ],
+    [
+      "0a39639486d8",
+      "130299f94502"
+    ],
+    [
+      "0a39639486d8",
+      "443c61029e3b"
+    ],
+    [
+      "009ebc870bf5",
+      "0a39639486d8"
+    ],
+    [
+      "0a39639486d8",
+      "d9a13a42a817"
+    ],
+    [
+      "0a39639486d8",
+      "df84715a8095"
+    ],
+    [
+      "0a39639486d8",
+      "f5324ef5decd"
+    ],
+    [
+      "0a39639486d8",
+      "4808a2cafa4d"
+    ],
+    [
+      "0a39639486d8",
+      "2a0423211373"
+    ],
+    [
+      "0a39639486d8",
+      "664bfeb17039"
+    ],
+    [
+      "0a39639486d8",
+      "a696078b381f"
+    ],
+    [
+      "0a39639486d8",
+      "da48e4af626f"
+    ],
+    [
+      "0a39639486d8",
+      "68d03696dea2"
+    ],
+    [
+      "0a39639486d8",
+      "93c6dfbce3bf"
+    ],
+    [
+      "0a39639486d8",
+      "5d4d6209f44b"
+    ],
+    [
+      "0a39639486d8",
+      "7423f7a6d161"
+    ],
+    [
+      "0a39639486d8",
+      "c148def6ae59"
+    ],
+    [
+      "130299f94502",
+      "443c61029e3b"
+    ],
+    [
+      "009ebc870bf5",
+      "130299f94502"
+    ],
+    [
+      "130299f94502",
+      "d9a13a42a817"
+    ],
+    [
+      "130299f94502",
+      "df84715a8095"
+    ],
+    [
+      "130299f94502",
+      "f5324ef5decd"
+    ],
+    [
+      "130299f94502",
+      "4808a2cafa4d"
+    ],
+    [
+      "130299f94502",
+      "2a0423211373"
+    ],
+    [
+      "130299f94502",
+      "664bfeb17039"
+    ],
+    [
+      "130299f94502",
+      "a696078b381f"
+    ],
+    [
+      "130299f94502",
+      "da48e4af626f"
+    ],
+    [
+      "130299f94502",
+      "68d03696dea2"
+    ],
+    [
+      "130299f94502",
+      "93c6dfbce3bf"
+    ],
+    [
+      "130299f94502",
+      "5d4d6209f44b"
+    ],
+    [
+      "130299f94502",
+      "7423f7a6d161"
+    ],
+    [
+      "130299f94502",
+      "c148def6ae59"
+    ],
+    [
+      "009ebc870bf5",
+      "443c61029e3b"
+    ],
+    [
+      "443c61029e3b",
+      "d9a13a42a817"
+    ],
+    [
+      "443c61029e3b",
+      "df84715a8095"
+    ],
+    [
+      "443c61029e3b",
+      "f5324ef5decd"
+    ],
+    [
+      "443c61029e3b",
+      "4808a2cafa4d"
+    ],
+    [
+      "2a0423211373",
+      "443c61029e3b"
+    ],
+    [
+      "443c61029e3b",
+      "664bfeb17039"
+    ],
+    [
+      "443c61029e3b",
+      "a696078b381f"
+    ],
+    [
+      "443c61029e3b",
+      "da48e4af626f"
+    ],
+    [
+      "443c61029e3b",
+      "68d03696dea2"
+    ],
+    [
+      "443c61029e3b",
+      "93c6dfbce3bf"
+    ],
+    [
+      "443c61029e3b",
+      "5d4d6209f44b"
+    ],
+    [
+      "443c61029e3b",
+      "7423f7a6d161"
+    ],
+    [
+      "443c61029e3b",
+      "c148def6ae59"
+    ],
+    [
+      "009ebc870bf5",
+      "d9a13a42a817"
+    ],
+    [
+      "009ebc870bf5",
+      "df84715a8095"
+    ],
+    [
+      "009ebc870bf5",
+      "f5324ef5decd"
+    ],
+    [
+      "009ebc870bf5",
+      "4808a2cafa4d"
+    ],
+    [
+      "009ebc870bf5",
+      "2a0423211373"
+    ],
+    [
+      "009ebc870bf5",
+      "664bfeb17039"
+    ],
+    [
+      "009ebc870bf5",
+      "a696078b381f"
+    ],
+    [
+      "009ebc870bf5",
+      "da48e4af626f"
+    ],
+    [
+      "009ebc870bf5",
+      "68d03696dea2"
+    ],
+    [
+      "009ebc870bf5",
+      "93c6dfbce3bf"
+    ],
+    [
+      "009ebc870bf5",
+      "5d4d6209f44b"
+    ],
+    [
+      "009ebc870bf5",
+      "7423f7a6d161"
+    ],
+    [
+      "009ebc870bf5",
+      "c148def6ae59"
+    ],
+    [
+      "d9a13a42a817",
+      "df84715a8095"
+    ],
+    [
+      "d9a13a42a817",
+      "f5324ef5decd"
+    ],
+    [
+      "4808a2cafa4d",
+      "d9a13a42a817"
+    ],
+    [
+      "2a0423211373",
+      "d9a13a42a817"
+    ],
+    [
+      "664bfeb17039",
+      "d9a13a42a817"
+    ],
+    [
+      "a696078b381f",
+      "d9a13a42a817"
+    ],
+    [
+      "d9a13a42a817",
+      "da48e4af626f"
+    ],
+    [
+      "68d03696dea2",
+      "d9a13a42a817"
+    ],
+    [
+      "93c6dfbce3bf",
+      "d9a13a42a817"
+    ],
+    [
+      "5d4d6209f44b",
+      "d9a13a42a817"
+    ],
+    [
+      "7423f7a6d161",
+      "d9a13a42a817"
+    ],
+    [
+      "c148def6ae59",
+      "d9a13a42a817"
+    ],
+    [
+      "df84715a8095",
+      "f5324ef5decd"
+    ],
+    [
+      "4808a2cafa4d",
+      "df84715a8095"
+    ],
+    [
+      "2a0423211373",
+      "df84715a8095"
+    ],
+    [
+      "664bfeb17039",
+      "df84715a8095"
+    ],
+    [
+      "a696078b381f",
+      "df84715a8095"
+    ],
+    [
+      "da48e4af626f",
+      "df84715a8095"
+    ],
+    [
+      "68d03696dea2",
+      "df84715a8095"
+    ],
+    [
+      "93c6dfbce3bf",
+      "df84715a8095"
+    ],
+    [
+      "5d4d6209f44b",
+      "df84715a8095"
+    ],
+    [
+      "7423f7a6d161",
+      "df84715a8095"
+    ],
+    [
+      "c148def6ae59",
+      "df84715a8095"
+    ],
+    [
+      "4808a2cafa4d",
+      "f5324ef5decd"
+    ],
+    [
+      "2a0423211373",
+      "f5324ef5decd"
+    ],
+    [
+      "664bfeb17039",
+      "f5324ef5decd"
+    ],
+    [
+      "a696078b381f",
+      "f5324ef5decd"
+    ],
+    [
+      "da48e4af626f",
+      "f5324ef5decd"
+    ],
+    [
+      "68d03696dea2",
+      "f5324ef5decd"
+    ],
+    [
+      "93c6dfbce3bf",
+      "f5324ef5decd"
+    ],
+    [
+      "5d4d6209f44b",
+      "f5324ef5decd"
+    ],
+    [
+      "7423f7a6d161",
+      "f5324ef5decd"
+    ],
+    [
+      "c148def6ae59",
+      "f5324ef5decd"
+    ],
+    [
+      "2a0423211373",
+      "4808a2cafa4d"
+    ],
+    [
+      "4808a2cafa4d",
+      "664bfeb17039"
+    ],
+    [
+      "4808a2cafa4d",
+      "a696078b381f"
+    ],
+    [
+      "4808a2cafa4d",
+      "da48e4af626f"
+    ],
+    [
+      "4808a2cafa4d",
+      "68d03696dea2"
+    ],
+    [
+      "4808a2cafa4d",
+      "93c6dfbce3bf"
+    ],
+    [
+      "4808a2cafa4d",
+      "5d4d6209f44b"
+    ],
+    [
+      "4808a2cafa4d",
+      "7423f7a6d161"
+    ],
+    [
+      "4808a2cafa4d",
+      "c148def6ae59"
+    ],
+    [
+      "2a0423211373",
+      "664bfeb17039"
+    ],
+    [
+      "2a0423211373",
+      "a696078b381f"
+    ],
+    [
+      "2a0423211373",
+      "da48e4af626f"
+    ],
+    [
+      "2a0423211373",
+      "68d03696dea2"
+    ],
+    [
+      "2a0423211373",
+      "93c6dfbce3bf"
+    ],
+    [
+      "2a0423211373",
+      "5d4d6209f44b"
+    ],
+    [
+      "2a0423211373",
+      "7423f7a6d161"
+    ],
+    [
+      "2a0423211373",
+      "c148def6ae59"
+    ],
+    [
+      "664bfeb17039",
+      "a696078b381f"
+    ],
+    [
+      "664bfeb17039",
+      "da48e4af626f"
+    ],
+    [
+      "664bfeb17039",
+      "68d03696dea2"
+    ],
+    [
+      "664bfeb17039",
+      "93c6dfbce3bf"
+    ],
+    [
+      "5d4d6209f44b",
+      "664bfeb17039"
+    ],
+    [
+      "664bfeb17039",
+      "7423f7a6d161"
+    ],
+    [
+      "664bfeb17039",
+      "c148def6ae59"
+    ],
+    [
+      "a696078b381f",
+      "da48e4af626f"
+    ],
+    [
+      "68d03696dea2",
+      "a696078b381f"
+    ],
+    [
+      "93c6dfbce3bf",
+      "a696078b381f"
+    ],
+    [
+      "5d4d6209f44b",
+      "a696078b381f"
+    ],
+    [
+      "7423f7a6d161",
+      "a696078b381f"
+    ],
+    [
+      "a696078b381f",
+      "c148def6ae59"
+    ],
+    [
+      "68d03696dea2",
+      "da48e4af626f"
+    ],
+    [
+      "93c6dfbce3bf",
+      "da48e4af626f"
+    ],
+    [
+      "5d4d6209f44b",
+      "da48e4af626f"
+    ],
+    [
+      "7423f7a6d161",
+      "da48e4af626f"
+    ],
+    [
+      "c148def6ae59",
+      "da48e4af626f"
+    ],
+    [
+      "68d03696dea2",
+      "93c6dfbce3bf"
+    ],
+    [
+      "5d4d6209f44b",
+      "68d03696dea2"
+    ],
+    [
+      "68d03696dea2",
+      "7423f7a6d161"
+    ],
+    [
+      "68d03696dea2",
+      "c148def6ae59"
+    ],
+    [
+      "5d4d6209f44b",
+      "93c6dfbce3bf"
+    ],
+    [
+      "7423f7a6d161",
+      "93c6dfbce3bf"
+    ],
+    [
+      "93c6dfbce3bf",
+      "c148def6ae59"
+    ],
+    [
+      "5d4d6209f44b",
+      "7423f7a6d161"
+    ],
+    [
+      "5d4d6209f44b",
+      "c148def6ae59"
+    ],
+    [
+      "7423f7a6d161",
+      "c148def6ae59"
     ]
   ]
 }

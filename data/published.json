@@ -30,5 +30,13 @@
     "date": "2026-04-11",
     "free_path": "guides/free/list-of-highest-grossing-indian-films.md",
     "premium_path": "guides/premium/list-of-highest-grossing-indian-films.md"
+  },
+  {
+    "topic": "Eric Swalwell",
+    "slug": "eric-swalwell",
+    "category": "legal-rights",
+    "date": "2026-04-12",
+    "free_path": "guides/free/eric-swalwell.md",
+    "premium_path": "guides/premium/eric-swalwell.md"
   }
 ]
