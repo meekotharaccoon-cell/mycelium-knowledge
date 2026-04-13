@@ -38,5 +38,13 @@
     "date": "2026-04-12",
     "free_path": "guides/free/eric-swalwell.md",
     "premium_path": "guides/premium/eric-swalwell.md"
+  },
+  {
+    "topic": "Tisza Party",
+    "slug": "tisza-party",
+    "category": "legal-rights",
+    "date": "2026-04-13",
+    "free_path": "guides/free/tisza-party.md",
+    "premium_path": "guides/premium/tisza-party.md"
   }
 ]
