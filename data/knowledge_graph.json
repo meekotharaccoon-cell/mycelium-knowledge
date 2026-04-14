@@ -1271,6 +1271,126 @@
       "sources": [
         "hackernews"
       ]
+    },
+    "9fd115d679af": {
+      "title": "DaVinci Resolve \u2013 Photo",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "59fbb2e324a4": {
+      "title": "A new spam policy for \u201cback button hijacking\u201d",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "9dd27347cb96": {
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "72b01b5d23ac": {
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "f99e7d913e66": {
+      "title": "Introspective Diffusion Language Models",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "0cdae39df035": {
+      "title": "What is jj and why should I care?",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "8d8398bbd3f5": {
+      "title": "Backblaze has stopped backing up your data",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "cc5f9fdab8b3": {
+      "title": "GitHub Stacked PRs",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "a24678bb5c13": {
+      "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "69b00af0be6c": {
+      "title": "Distributed DuckDB Instance",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "61199c1ed29c": {
+      "title": "Lean proved this program correct; then I found a bug",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "4a61a3353817": {
+      "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "0d3445b7614b": {
+      "title": "The M\u00d7N problem of tool calling and open-source models",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "0e9b24d77d7e": {
+      "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "b1cc6669fa1a": {
+      "title": "A soft robot has no problem moving with no motor and no gears",
+      "category": "tech",
+      "last_seen": "2026-04-14",
+      "sources": [
+        "hackernews"
+      ]
     }
   },
   "edges": [
@@ -9537,6 +9657,426 @@
     [
       "a8b5457192d7",
       "b68549efc95f"
+    ],
+    [
+      "59fbb2e324a4",
+      "9fd115d679af"
+    ],
+    [
+      "9dd27347cb96",
+      "9fd115d679af"
+    ],
+    [
+      "72b01b5d23ac",
+      "9fd115d679af"
+    ],
+    [
+      "9fd115d679af",
+      "f99e7d913e66"
+    ],
+    [
+      "0cdae39df035",
+      "9fd115d679af"
+    ],
+    [
+      "8d8398bbd3f5",
+      "9fd115d679af"
+    ],
+    [
+      "9fd115d679af",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "9fd115d679af",
+      "a24678bb5c13"
+    ],
+    [
+      "69b00af0be6c",
+      "9fd115d679af"
+    ],
+    [
+      "61199c1ed29c",
+      "9fd115d679af"
+    ],
+    [
+      "4a61a3353817",
+      "9fd115d679af"
+    ],
+    [
+      "0d3445b7614b",
+      "9fd115d679af"
+    ],
+    [
+      "0e9b24d77d7e",
+      "9fd115d679af"
+    ],
+    [
+      "9fd115d679af",
+      "b1cc6669fa1a"
+    ],
+    [
+      "59fbb2e324a4",
+      "9dd27347cb96"
+    ],
+    [
+      "59fbb2e324a4",
+      "72b01b5d23ac"
+    ],
+    [
+      "59fbb2e324a4",
+      "f99e7d913e66"
+    ],
+    [
+      "0cdae39df035",
+      "59fbb2e324a4"
+    ],
+    [
+      "59fbb2e324a4",
+      "8d8398bbd3f5"
+    ],
+    [
+      "59fbb2e324a4",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "59fbb2e324a4",
+      "a24678bb5c13"
+    ],
+    [
+      "59fbb2e324a4",
+      "69b00af0be6c"
+    ],
+    [
+      "59fbb2e324a4",
+      "61199c1ed29c"
+    ],
+    [
+      "4a61a3353817",
+      "59fbb2e324a4"
+    ],
+    [
+      "0d3445b7614b",
+      "59fbb2e324a4"
+    ],
+    [
+      "0e9b24d77d7e",
+      "59fbb2e324a4"
+    ],
+    [
+      "59fbb2e324a4",
+      "b1cc6669fa1a"
+    ],
+    [
+      "72b01b5d23ac",
+      "9dd27347cb96"
+    ],
+    [
+      "9dd27347cb96",
+      "f99e7d913e66"
+    ],
+    [
+      "0cdae39df035",
+      "9dd27347cb96"
+    ],
+    [
+      "8d8398bbd3f5",
+      "9dd27347cb96"
+    ],
+    [
+      "9dd27347cb96",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "9dd27347cb96",
+      "a24678bb5c13"
+    ],
+    [
+      "69b00af0be6c",
+      "9dd27347cb96"
+    ],
+    [
+      "61199c1ed29c",
+      "9dd27347cb96"
+    ],
+    [
+      "4a61a3353817",
+      "9dd27347cb96"
+    ],
+    [
+      "0d3445b7614b",
+      "9dd27347cb96"
+    ],
+    [
+      "0e9b24d77d7e",
+      "9dd27347cb96"
+    ],
+    [
+      "9dd27347cb96",
+      "b1cc6669fa1a"
+    ],
+    [
+      "72b01b5d23ac",
+      "f99e7d913e66"
+    ],
+    [
+      "0cdae39df035",
+      "72b01b5d23ac"
+    ],
+    [
+      "72b01b5d23ac",
+      "8d8398bbd3f5"
+    ],
+    [
+      "72b01b5d23ac",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "72b01b5d23ac",
+      "a24678bb5c13"
+    ],
+    [
+      "69b00af0be6c",
+      "72b01b5d23ac"
+    ],
+    [
+      "61199c1ed29c",
+      "72b01b5d23ac"
+    ],
+    [
+      "4a61a3353817",
+      "72b01b5d23ac"
+    ],
+    [
+      "0d3445b7614b",
+      "72b01b5d23ac"
+    ],
+    [
+      "0e9b24d77d7e",
+      "72b01b5d23ac"
+    ],
+    [
+      "72b01b5d23ac",
+      "b1cc6669fa1a"
+    ],
+    [
+      "0cdae39df035",
+      "f99e7d913e66"
+    ],
+    [
+      "8d8398bbd3f5",
+      "f99e7d913e66"
+    ],
+    [
+      "cc5f9fdab8b3",
+      "f99e7d913e66"
+    ],
+    [
+      "a24678bb5c13",
+      "f99e7d913e66"
+    ],
+    [
+      "69b00af0be6c",
+      "f99e7d913e66"
+    ],
+    [
+      "61199c1ed29c",
+      "f99e7d913e66"
+    ],
+    [
+      "4a61a3353817",
+      "f99e7d913e66"
+    ],
+    [
+      "0d3445b7614b",
+      "f99e7d913e66"
+    ],
+    [
+      "0e9b24d77d7e",
+      "f99e7d913e66"
+    ],
+    [
+      "b1cc6669fa1a",
+      "f99e7d913e66"
+    ],
+    [
+      "0cdae39df035",
+      "8d8398bbd3f5"
+    ],
+    [
+      "0cdae39df035",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "0cdae39df035",
+      "a24678bb5c13"
+    ],
+    [
+      "0cdae39df035",
+      "69b00af0be6c"
+    ],
+    [
+      "0cdae39df035",
+      "61199c1ed29c"
+    ],
+    [
+      "0cdae39df035",
+      "4a61a3353817"
+    ],
+    [
+      "0cdae39df035",
+      "0d3445b7614b"
+    ],
+    [
+      "0cdae39df035",
+      "0e9b24d77d7e"
+    ],
+    [
+      "0cdae39df035",
+      "b1cc6669fa1a"
+    ],
+    [
+      "8d8398bbd3f5",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "8d8398bbd3f5",
+      "a24678bb5c13"
+    ],
+    [
+      "69b00af0be6c",
+      "8d8398bbd3f5"
+    ],
+    [
+      "61199c1ed29c",
+      "8d8398bbd3f5"
+    ],
+    [
+      "4a61a3353817",
+      "8d8398bbd3f5"
+    ],
+    [
+      "0d3445b7614b",
+      "8d8398bbd3f5"
+    ],
+    [
+      "0e9b24d77d7e",
+      "8d8398bbd3f5"
+    ],
+    [
+      "8d8398bbd3f5",
+      "b1cc6669fa1a"
+    ],
+    [
+      "a24678bb5c13",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "69b00af0be6c",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "61199c1ed29c",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "4a61a3353817",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "0d3445b7614b",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "0e9b24d77d7e",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "b1cc6669fa1a",
+      "cc5f9fdab8b3"
+    ],
+    [
+      "69b00af0be6c",
+      "a24678bb5c13"
+    ],
+    [
+      "61199c1ed29c",
+      "a24678bb5c13"
+    ],
+    [
+      "4a61a3353817",
+      "a24678bb5c13"
+    ],
+    [
+      "0d3445b7614b",
+      "a24678bb5c13"
+    ],
+    [
+      "0e9b24d77d7e",
+      "a24678bb5c13"
+    ],
+    [
+      "a24678bb5c13",
+      "b1cc6669fa1a"
+    ],
+    [
+      "61199c1ed29c",
+      "69b00af0be6c"
+    ],
+    [
+      "4a61a3353817",
+      "69b00af0be6c"
+    ],
+    [
+      "0d3445b7614b",
+      "69b00af0be6c"
+    ],
+    [
+      "0e9b24d77d7e",
+      "69b00af0be6c"
+    ],
+    [
+      "69b00af0be6c",
+      "b1cc6669fa1a"
+    ],
+    [
+      "4a61a3353817",
+      "61199c1ed29c"
+    ],
+    [
+      "0d3445b7614b",
+      "61199c1ed29c"
+    ],
+    [
+      "0e9b24d77d7e",
+      "61199c1ed29c"
+    ],
+    [
+      "61199c1ed29c",
+      "b1cc6669fa1a"
+    ],
+    [
+      "0d3445b7614b",
+      "4a61a3353817"
+    ],
+    [
+      "0e9b24d77d7e",
+      "4a61a3353817"
+    ],
+    [
+      "4a61a3353817",
+      "b1cc6669fa1a"
+    ],
+    [
+      "0d3445b7614b",
+      "0e9b24d77d7e"
+    ],
+    [
+      "0d3445b7614b",
+      "b1cc6669fa1a"
+    ],
+    [
+      "0e9b24d77d7e",
+      "b1cc6669fa1a"
     ]
   ]
 }
