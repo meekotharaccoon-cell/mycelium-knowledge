@@ -62,5 +62,13 @@
     "date": "2026-04-16",
     "free_path": "guides/free/list-of-highest-grossing-indian-films.md",
     "premium_path": "guides/premium/list-of-highest-grossing-indian-films.md"
+  },
+  {
+    "topic": "Justin Fairfax",
+    "slug": "justin-fairfax",
+    "category": "legal-rights",
+    "date": "2026-04-17",
+    "free_path": "guides/free/justin-fairfax.md",
+    "premium_path": "guides/premium/justin-fairfax.md"
   }
 ]
