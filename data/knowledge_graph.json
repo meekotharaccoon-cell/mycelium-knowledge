@@ -1975,6 +1975,166 @@
       "sources": [
         "hackernews"
       ]
+    },
+    "3a016e588c82": {
+      "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "790a81c79fea": {
+      "title": "Dominion Voting Systems agreed to a $787\u00a0million settlement with Fox News over defamation claims related to the 2020 U.S",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "f0ec848dfdb2": {
+      "title": "The United States Department of Justice released a redacted version of the Mueller report about the investigation of Rus",
+      "category": "finance",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "371fa36b2e31": {
+      "title": "A ladle spilled 30 tonnes (33 tons) of molten steel in a factory in Liaoning, China, killing 32 workers.",
+      "category": "legal-rights",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "785b808277b3": {
+      "title": "Operation Grapes of Wrath: Israeli forces shelled Qana, Lebanon, killing at least 100 civilians and injuring more than 1",
+      "category": "legal-rights",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "9382b38db5b7": {
+      "title": "Robert Mugabe became the first prime minister of Zimbabwe, beginning a 37-year period in power.",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "f3b03a7ceaf6": {
+      "title": "Category Theory Illustrated \u2013 Orders",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "433454c295af": {
+      "title": "Michael Rabin Has Died",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "7d8988e7ed7d": {
+      "title": "Amiga Graphics",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "328f812fce0f": {
+      "title": "Claude Design",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d3cce66f9446": {
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "23868884b271": {
+      "title": "It's OK to compare floating-points for equality",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "c2ec2fef45e1": {
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "734d579ff6ab": {
+      "title": "Towards trust in Emacs",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "ebb5f71e066b": {
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "cbd9ba827bda": {
+      "title": "Spending 3 months coding by hand",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "8da3305bdaa6": {
+      "title": "The simple geometry behind any road",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "a38be6dbab17": {
+      "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "431d471c09dd": {
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "e03c719d085f": {
+      "title": "A simplified model of Fil-C",
+      "category": "tech",
+      "last_seen": "2026-04-18",
+      "sources": [
+        "hackernews"
+      ]
     }
   },
   "edges": [
@@ -14189,6 +14349,554 @@
     [
       "7105a6ef310e",
       "d33919dc4841"
+    ],
+    [
+      "3a016e588c82",
+      "790a81c79fea"
+    ],
+    [
+      "3a016e588c82",
+      "9382b38db5b7"
+    ],
+    [
+      "3a016e588c82",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "3a016e588c82",
+      "433454c295af"
+    ],
+    [
+      "3a016e588c82",
+      "7d8988e7ed7d"
+    ],
+    [
+      "328f812fce0f",
+      "3a016e588c82"
+    ],
+    [
+      "3a016e588c82",
+      "d3cce66f9446"
+    ],
+    [
+      "23868884b271",
+      "3a016e588c82"
+    ],
+    [
+      "3a016e588c82",
+      "c2ec2fef45e1"
+    ],
+    [
+      "3a016e588c82",
+      "734d579ff6ab"
+    ],
+    [
+      "3a016e588c82",
+      "ebb5f71e066b"
+    ],
+    [
+      "3a016e588c82",
+      "cbd9ba827bda"
+    ],
+    [
+      "3a016e588c82",
+      "8da3305bdaa6"
+    ],
+    [
+      "3a016e588c82",
+      "a38be6dbab17"
+    ],
+    [
+      "3a016e588c82",
+      "431d471c09dd"
+    ],
+    [
+      "3a016e588c82",
+      "e03c719d085f"
+    ],
+    [
+      "790a81c79fea",
+      "9382b38db5b7"
+    ],
+    [
+      "790a81c79fea",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "433454c295af",
+      "790a81c79fea"
+    ],
+    [
+      "790a81c79fea",
+      "7d8988e7ed7d"
+    ],
+    [
+      "328f812fce0f",
+      "790a81c79fea"
+    ],
+    [
+      "790a81c79fea",
+      "d3cce66f9446"
+    ],
+    [
+      "23868884b271",
+      "790a81c79fea"
+    ],
+    [
+      "790a81c79fea",
+      "c2ec2fef45e1"
+    ],
+    [
+      "734d579ff6ab",
+      "790a81c79fea"
+    ],
+    [
+      "790a81c79fea",
+      "ebb5f71e066b"
+    ],
+    [
+      "790a81c79fea",
+      "cbd9ba827bda"
+    ],
+    [
+      "790a81c79fea",
+      "8da3305bdaa6"
+    ],
+    [
+      "790a81c79fea",
+      "a38be6dbab17"
+    ],
+    [
+      "431d471c09dd",
+      "790a81c79fea"
+    ],
+    [
+      "790a81c79fea",
+      "e03c719d085f"
+    ],
+    [
+      "371fa36b2e31",
+      "785b808277b3"
+    ],
+    [
+      "9382b38db5b7",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "433454c295af",
+      "9382b38db5b7"
+    ],
+    [
+      "7d8988e7ed7d",
+      "9382b38db5b7"
+    ],
+    [
+      "328f812fce0f",
+      "9382b38db5b7"
+    ],
+    [
+      "9382b38db5b7",
+      "d3cce66f9446"
+    ],
+    [
+      "23868884b271",
+      "9382b38db5b7"
+    ],
+    [
+      "9382b38db5b7",
+      "c2ec2fef45e1"
+    ],
+    [
+      "734d579ff6ab",
+      "9382b38db5b7"
+    ],
+    [
+      "9382b38db5b7",
+      "ebb5f71e066b"
+    ],
+    [
+      "9382b38db5b7",
+      "cbd9ba827bda"
+    ],
+    [
+      "8da3305bdaa6",
+      "9382b38db5b7"
+    ],
+    [
+      "9382b38db5b7",
+      "a38be6dbab17"
+    ],
+    [
+      "431d471c09dd",
+      "9382b38db5b7"
+    ],
+    [
+      "9382b38db5b7",
+      "e03c719d085f"
+    ],
+    [
+      "433454c295af",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "7d8988e7ed7d",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "328f812fce0f",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "d3cce66f9446",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "23868884b271",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "c2ec2fef45e1",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "734d579ff6ab",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "ebb5f71e066b",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "cbd9ba827bda",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "8da3305bdaa6",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "a38be6dbab17",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "431d471c09dd",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "e03c719d085f",
+      "f3b03a7ceaf6"
+    ],
+    [
+      "433454c295af",
+      "7d8988e7ed7d"
+    ],
+    [
+      "328f812fce0f",
+      "433454c295af"
+    ],
+    [
+      "433454c295af",
+      "d3cce66f9446"
+    ],
+    [
+      "23868884b271",
+      "433454c295af"
+    ],
+    [
+      "433454c295af",
+      "c2ec2fef45e1"
+    ],
+    [
+      "433454c295af",
+      "734d579ff6ab"
+    ],
+    [
+      "433454c295af",
+      "ebb5f71e066b"
+    ],
+    [
+      "433454c295af",
+      "cbd9ba827bda"
+    ],
+    [
+      "433454c295af",
+      "8da3305bdaa6"
+    ],
+    [
+      "433454c295af",
+      "a38be6dbab17"
+    ],
+    [
+      "431d471c09dd",
+      "433454c295af"
+    ],
+    [
+      "433454c295af",
+      "e03c719d085f"
+    ],
+    [
+      "328f812fce0f",
+      "7d8988e7ed7d"
+    ],
+    [
+      "7d8988e7ed7d",
+      "d3cce66f9446"
+    ],
+    [
+      "23868884b271",
+      "7d8988e7ed7d"
+    ],
+    [
+      "7d8988e7ed7d",
+      "c2ec2fef45e1"
+    ],
+    [
+      "734d579ff6ab",
+      "7d8988e7ed7d"
+    ],
+    [
+      "7d8988e7ed7d",
+      "ebb5f71e066b"
+    ],
+    [
+      "7d8988e7ed7d",
+      "cbd9ba827bda"
+    ],
+    [
+      "7d8988e7ed7d",
+      "8da3305bdaa6"
+    ],
+    [
+      "7d8988e7ed7d",
+      "a38be6dbab17"
+    ],
+    [
+      "431d471c09dd",
+      "7d8988e7ed7d"
+    ],
+    [
+      "7d8988e7ed7d",
+      "e03c719d085f"
+    ],
+    [
+      "328f812fce0f",
+      "d3cce66f9446"
+    ],
+    [
+      "23868884b271",
+      "328f812fce0f"
+    ],
+    [
+      "328f812fce0f",
+      "c2ec2fef45e1"
+    ],
+    [
+      "328f812fce0f",
+      "734d579ff6ab"
+    ],
+    [
+      "328f812fce0f",
+      "ebb5f71e066b"
+    ],
+    [
+      "328f812fce0f",
+      "cbd9ba827bda"
+    ],
+    [
+      "328f812fce0f",
+      "8da3305bdaa6"
+    ],
+    [
+      "328f812fce0f",
+      "a38be6dbab17"
+    ],
+    [
+      "328f812fce0f",
+      "431d471c09dd"
+    ],
+    [
+      "328f812fce0f",
+      "e03c719d085f"
+    ],
+    [
+      "23868884b271",
+      "d3cce66f9446"
+    ],
+    [
+      "c2ec2fef45e1",
+      "d3cce66f9446"
+    ],
+    [
+      "734d579ff6ab",
+      "d3cce66f9446"
+    ],
+    [
+      "d3cce66f9446",
+      "ebb5f71e066b"
+    ],
+    [
+      "cbd9ba827bda",
+      "d3cce66f9446"
+    ],
+    [
+      "8da3305bdaa6",
+      "d3cce66f9446"
+    ],
+    [
+      "a38be6dbab17",
+      "d3cce66f9446"
+    ],
+    [
+      "431d471c09dd",
+      "d3cce66f9446"
+    ],
+    [
+      "d3cce66f9446",
+      "e03c719d085f"
+    ],
+    [
+      "23868884b271",
+      "c2ec2fef45e1"
+    ],
+    [
+      "23868884b271",
+      "734d579ff6ab"
+    ],
+    [
+      "23868884b271",
+      "ebb5f71e066b"
+    ],
+    [
+      "23868884b271",
+      "cbd9ba827bda"
+    ],
+    [
+      "23868884b271",
+      "8da3305bdaa6"
+    ],
+    [
+      "23868884b271",
+      "a38be6dbab17"
+    ],
+    [
+      "23868884b271",
+      "431d471c09dd"
+    ],
+    [
+      "23868884b271",
+      "e03c719d085f"
+    ],
+    [
+      "734d579ff6ab",
+      "c2ec2fef45e1"
+    ],
+    [
+      "c2ec2fef45e1",
+      "ebb5f71e066b"
+    ],
+    [
+      "c2ec2fef45e1",
+      "cbd9ba827bda"
+    ],
+    [
+      "8da3305bdaa6",
+      "c2ec2fef45e1"
+    ],
+    [
+      "a38be6dbab17",
+      "c2ec2fef45e1"
+    ],
+    [
+      "431d471c09dd",
+      "c2ec2fef45e1"
+    ],
+    [
+      "c2ec2fef45e1",
+      "e03c719d085f"
+    ],
+    [
+      "734d579ff6ab",
+      "ebb5f71e066b"
+    ],
+    [
+      "734d579ff6ab",
+      "cbd9ba827bda"
+    ],
+    [
+      "734d579ff6ab",
+      "8da3305bdaa6"
+    ],
+    [
+      "734d579ff6ab",
+      "a38be6dbab17"
+    ],
+    [
+      "431d471c09dd",
+      "734d579ff6ab"
+    ],
+    [
+      "734d579ff6ab",
+      "e03c719d085f"
+    ],
+    [
+      "cbd9ba827bda",
+      "ebb5f71e066b"
+    ],
+    [
+      "8da3305bdaa6",
+      "ebb5f71e066b"
+    ],
+    [
+      "a38be6dbab17",
+      "ebb5f71e066b"
+    ],
+    [
+      "431d471c09dd",
+      "ebb5f71e066b"
+    ],
+    [
+      "e03c719d085f",
+      "ebb5f71e066b"
+    ],
+    [
+      "8da3305bdaa6",
+      "cbd9ba827bda"
+    ],
+    [
+      "a38be6dbab17",
+      "cbd9ba827bda"
+    ],
+    [
+      "431d471c09dd",
+      "cbd9ba827bda"
+    ],
+    [
+      "cbd9ba827bda",
+      "e03c719d085f"
+    ],
+    [
+      "8da3305bdaa6",
+      "a38be6dbab17"
+    ],
+    [
+      "431d471c09dd",
+      "8da3305bdaa6"
+    ],
+    [
+      "8da3305bdaa6",
+      "e03c719d085f"
+    ],
+    [
+      "431d471c09dd",
+      "a38be6dbab17"
+    ],
+    [
+      "a38be6dbab17",
+      "e03c719d085f"
+    ],
+    [
+      "431d471c09dd",
+      "e03c719d085f"
     ]
   ]
 }
