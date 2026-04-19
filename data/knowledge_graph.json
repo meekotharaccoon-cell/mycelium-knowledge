@@ -2135,6 +2135,166 @@
       "sources": [
         "hackernews"
       ]
+    },
+    "0e0d5f03e7bc": {
+      "title": "A series of attacks in Nova Scotia, Canada, ended when the perpetrator was killed by police, leaving 22 victims dead.",
+      "category": "legal-rights",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "64872fb1c571": {
+      "title": "Freddie Gray, a 25-year-old African American, died of injuries sustained while in the custody of the Baltimore Police De",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "8354b7742b5b": {
+      "title": "Joseph Alois Ratzinger was elected Pope Benedict XVI on the second day of the papal conclave.",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "7eef977c3815": {
+      "title": "Air Philippines Flight\u00a0541 crashed in Samal, Davao del Norte, killing all 131 people on board.",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "01dddb6f67a9": {
+      "title": "A truck bombing destroyed much of the Alfred P. Murrah Federal Building (aftermath pictured) in Oklahoma City, killing 1",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "e71da5a407b6": {
+      "title": "Archive of Byte magazine, starting with issue #1 in 1975",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "3112a2009608": {
+      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "be71d9fb1eb8": {
+      "title": "Game devs explain the tricks involved with letting you pause a game",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "25574aea2186": {
+      "title": "What are skiplists good for?",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "93cc4ec8df05": {
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "855ff753fb5a": {
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "40bd413180b4": {
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "a29e4a66eb94": {
+      "title": "Ask HN: How did you land your first projects as a solo engineer/consultant?",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "e9e8b1ea0eee": {
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "98f7d8a641b9": {
+      "title": "Updating Gun Rocket through 10 years of Unity Engine",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "f5e7780d9d63": {
+      "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "03e674debe08": {
+      "title": "Why Japan has such good railways",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "9c98184b6aef": {
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "7ccd8b475715": {
+      "title": "The seven programming ur-languages",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "64f0f1bff95c": {
+      "title": "The world in which IPv6 was a good design",
+      "category": "tech",
+      "last_seen": "2026-04-19",
+      "sources": [
+        "hackernews"
+      ]
     }
   },
   "edges": [
@@ -14897,6 +15057,690 @@
     [
       "431d471c09dd",
       "e03c719d085f"
+    ],
+    [
+      "64872fb1c571",
+      "8354b7742b5b"
+    ],
+    [
+      "64872fb1c571",
+      "7eef977c3815"
+    ],
+    [
+      "01dddb6f67a9",
+      "64872fb1c571"
+    ],
+    [
+      "64872fb1c571",
+      "e71da5a407b6"
+    ],
+    [
+      "3112a2009608",
+      "64872fb1c571"
+    ],
+    [
+      "64872fb1c571",
+      "be71d9fb1eb8"
+    ],
+    [
+      "25574aea2186",
+      "64872fb1c571"
+    ],
+    [
+      "64872fb1c571",
+      "93cc4ec8df05"
+    ],
+    [
+      "64872fb1c571",
+      "855ff753fb5a"
+    ],
+    [
+      "40bd413180b4",
+      "64872fb1c571"
+    ],
+    [
+      "64872fb1c571",
+      "a29e4a66eb94"
+    ],
+    [
+      "64872fb1c571",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "64872fb1c571",
+      "98f7d8a641b9"
+    ],
+    [
+      "64872fb1c571",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "64872fb1c571"
+    ],
+    [
+      "64872fb1c571",
+      "9c98184b6aef"
+    ],
+    [
+      "64872fb1c571",
+      "7ccd8b475715"
+    ],
+    [
+      "64872fb1c571",
+      "64f0f1bff95c"
+    ],
+    [
+      "7eef977c3815",
+      "8354b7742b5b"
+    ],
+    [
+      "01dddb6f67a9",
+      "8354b7742b5b"
+    ],
+    [
+      "8354b7742b5b",
+      "e71da5a407b6"
+    ],
+    [
+      "3112a2009608",
+      "8354b7742b5b"
+    ],
+    [
+      "8354b7742b5b",
+      "be71d9fb1eb8"
+    ],
+    [
+      "25574aea2186",
+      "8354b7742b5b"
+    ],
+    [
+      "8354b7742b5b",
+      "93cc4ec8df05"
+    ],
+    [
+      "8354b7742b5b",
+      "855ff753fb5a"
+    ],
+    [
+      "40bd413180b4",
+      "8354b7742b5b"
+    ],
+    [
+      "8354b7742b5b",
+      "a29e4a66eb94"
+    ],
+    [
+      "8354b7742b5b",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "8354b7742b5b",
+      "98f7d8a641b9"
+    ],
+    [
+      "8354b7742b5b",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "8354b7742b5b"
+    ],
+    [
+      "8354b7742b5b",
+      "9c98184b6aef"
+    ],
+    [
+      "7ccd8b475715",
+      "8354b7742b5b"
+    ],
+    [
+      "64f0f1bff95c",
+      "8354b7742b5b"
+    ],
+    [
+      "01dddb6f67a9",
+      "7eef977c3815"
+    ],
+    [
+      "7eef977c3815",
+      "e71da5a407b6"
+    ],
+    [
+      "3112a2009608",
+      "7eef977c3815"
+    ],
+    [
+      "7eef977c3815",
+      "be71d9fb1eb8"
+    ],
+    [
+      "25574aea2186",
+      "7eef977c3815"
+    ],
+    [
+      "7eef977c3815",
+      "93cc4ec8df05"
+    ],
+    [
+      "7eef977c3815",
+      "855ff753fb5a"
+    ],
+    [
+      "40bd413180b4",
+      "7eef977c3815"
+    ],
+    [
+      "7eef977c3815",
+      "a29e4a66eb94"
+    ],
+    [
+      "7eef977c3815",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "7eef977c3815",
+      "98f7d8a641b9"
+    ],
+    [
+      "7eef977c3815",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "7eef977c3815"
+    ],
+    [
+      "7eef977c3815",
+      "9c98184b6aef"
+    ],
+    [
+      "7ccd8b475715",
+      "7eef977c3815"
+    ],
+    [
+      "64f0f1bff95c",
+      "7eef977c3815"
+    ],
+    [
+      "01dddb6f67a9",
+      "e71da5a407b6"
+    ],
+    [
+      "01dddb6f67a9",
+      "3112a2009608"
+    ],
+    [
+      "01dddb6f67a9",
+      "be71d9fb1eb8"
+    ],
+    [
+      "01dddb6f67a9",
+      "25574aea2186"
+    ],
+    [
+      "01dddb6f67a9",
+      "93cc4ec8df05"
+    ],
+    [
+      "01dddb6f67a9",
+      "855ff753fb5a"
+    ],
+    [
+      "01dddb6f67a9",
+      "40bd413180b4"
+    ],
+    [
+      "01dddb6f67a9",
+      "a29e4a66eb94"
+    ],
+    [
+      "01dddb6f67a9",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "01dddb6f67a9",
+      "98f7d8a641b9"
+    ],
+    [
+      "01dddb6f67a9",
+      "f5e7780d9d63"
+    ],
+    [
+      "01dddb6f67a9",
+      "03e674debe08"
+    ],
+    [
+      "01dddb6f67a9",
+      "9c98184b6aef"
+    ],
+    [
+      "01dddb6f67a9",
+      "7ccd8b475715"
+    ],
+    [
+      "01dddb6f67a9",
+      "64f0f1bff95c"
+    ],
+    [
+      "3112a2009608",
+      "e71da5a407b6"
+    ],
+    [
+      "be71d9fb1eb8",
+      "e71da5a407b6"
+    ],
+    [
+      "25574aea2186",
+      "e71da5a407b6"
+    ],
+    [
+      "93cc4ec8df05",
+      "e71da5a407b6"
+    ],
+    [
+      "855ff753fb5a",
+      "e71da5a407b6"
+    ],
+    [
+      "40bd413180b4",
+      "e71da5a407b6"
+    ],
+    [
+      "a29e4a66eb94",
+      "e71da5a407b6"
+    ],
+    [
+      "e71da5a407b6",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "98f7d8a641b9",
+      "e71da5a407b6"
+    ],
+    [
+      "e71da5a407b6",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "e71da5a407b6"
+    ],
+    [
+      "9c98184b6aef",
+      "e71da5a407b6"
+    ],
+    [
+      "7ccd8b475715",
+      "e71da5a407b6"
+    ],
+    [
+      "64f0f1bff95c",
+      "e71da5a407b6"
+    ],
+    [
+      "3112a2009608",
+      "be71d9fb1eb8"
+    ],
+    [
+      "25574aea2186",
+      "3112a2009608"
+    ],
+    [
+      "3112a2009608",
+      "93cc4ec8df05"
+    ],
+    [
+      "3112a2009608",
+      "855ff753fb5a"
+    ],
+    [
+      "3112a2009608",
+      "40bd413180b4"
+    ],
+    [
+      "3112a2009608",
+      "a29e4a66eb94"
+    ],
+    [
+      "3112a2009608",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "3112a2009608",
+      "98f7d8a641b9"
+    ],
+    [
+      "3112a2009608",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "3112a2009608"
+    ],
+    [
+      "3112a2009608",
+      "9c98184b6aef"
+    ],
+    [
+      "3112a2009608",
+      "7ccd8b475715"
+    ],
+    [
+      "3112a2009608",
+      "64f0f1bff95c"
+    ],
+    [
+      "25574aea2186",
+      "be71d9fb1eb8"
+    ],
+    [
+      "93cc4ec8df05",
+      "be71d9fb1eb8"
+    ],
+    [
+      "855ff753fb5a",
+      "be71d9fb1eb8"
+    ],
+    [
+      "40bd413180b4",
+      "be71d9fb1eb8"
+    ],
+    [
+      "a29e4a66eb94",
+      "be71d9fb1eb8"
+    ],
+    [
+      "be71d9fb1eb8",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "98f7d8a641b9",
+      "be71d9fb1eb8"
+    ],
+    [
+      "be71d9fb1eb8",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "be71d9fb1eb8"
+    ],
+    [
+      "9c98184b6aef",
+      "be71d9fb1eb8"
+    ],
+    [
+      "7ccd8b475715",
+      "be71d9fb1eb8"
+    ],
+    [
+      "64f0f1bff95c",
+      "be71d9fb1eb8"
+    ],
+    [
+      "25574aea2186",
+      "93cc4ec8df05"
+    ],
+    [
+      "25574aea2186",
+      "855ff753fb5a"
+    ],
+    [
+      "25574aea2186",
+      "40bd413180b4"
+    ],
+    [
+      "25574aea2186",
+      "a29e4a66eb94"
+    ],
+    [
+      "25574aea2186",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "25574aea2186",
+      "98f7d8a641b9"
+    ],
+    [
+      "25574aea2186",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "25574aea2186"
+    ],
+    [
+      "25574aea2186",
+      "9c98184b6aef"
+    ],
+    [
+      "25574aea2186",
+      "7ccd8b475715"
+    ],
+    [
+      "25574aea2186",
+      "64f0f1bff95c"
+    ],
+    [
+      "855ff753fb5a",
+      "93cc4ec8df05"
+    ],
+    [
+      "40bd413180b4",
+      "93cc4ec8df05"
+    ],
+    [
+      "93cc4ec8df05",
+      "a29e4a66eb94"
+    ],
+    [
+      "93cc4ec8df05",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "93cc4ec8df05",
+      "98f7d8a641b9"
+    ],
+    [
+      "93cc4ec8df05",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "93cc4ec8df05"
+    ],
+    [
+      "93cc4ec8df05",
+      "9c98184b6aef"
+    ],
+    [
+      "7ccd8b475715",
+      "93cc4ec8df05"
+    ],
+    [
+      "64f0f1bff95c",
+      "93cc4ec8df05"
+    ],
+    [
+      "40bd413180b4",
+      "855ff753fb5a"
+    ],
+    [
+      "855ff753fb5a",
+      "a29e4a66eb94"
+    ],
+    [
+      "855ff753fb5a",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "855ff753fb5a",
+      "98f7d8a641b9"
+    ],
+    [
+      "855ff753fb5a",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "855ff753fb5a"
+    ],
+    [
+      "855ff753fb5a",
+      "9c98184b6aef"
+    ],
+    [
+      "7ccd8b475715",
+      "855ff753fb5a"
+    ],
+    [
+      "64f0f1bff95c",
+      "855ff753fb5a"
+    ],
+    [
+      "40bd413180b4",
+      "a29e4a66eb94"
+    ],
+    [
+      "40bd413180b4",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "40bd413180b4",
+      "98f7d8a641b9"
+    ],
+    [
+      "40bd413180b4",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "40bd413180b4"
+    ],
+    [
+      "40bd413180b4",
+      "9c98184b6aef"
+    ],
+    [
+      "40bd413180b4",
+      "7ccd8b475715"
+    ],
+    [
+      "40bd413180b4",
+      "64f0f1bff95c"
+    ],
+    [
+      "a29e4a66eb94",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "98f7d8a641b9",
+      "a29e4a66eb94"
+    ],
+    [
+      "a29e4a66eb94",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "a29e4a66eb94"
+    ],
+    [
+      "9c98184b6aef",
+      "a29e4a66eb94"
+    ],
+    [
+      "7ccd8b475715",
+      "a29e4a66eb94"
+    ],
+    [
+      "64f0f1bff95c",
+      "a29e4a66eb94"
+    ],
+    [
+      "98f7d8a641b9",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "e9e8b1ea0eee",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "9c98184b6aef",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "7ccd8b475715",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "64f0f1bff95c",
+      "e9e8b1ea0eee"
+    ],
+    [
+      "98f7d8a641b9",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "98f7d8a641b9"
+    ],
+    [
+      "98f7d8a641b9",
+      "9c98184b6aef"
+    ],
+    [
+      "7ccd8b475715",
+      "98f7d8a641b9"
+    ],
+    [
+      "64f0f1bff95c",
+      "98f7d8a641b9"
+    ],
+    [
+      "03e674debe08",
+      "f5e7780d9d63"
+    ],
+    [
+      "9c98184b6aef",
+      "f5e7780d9d63"
+    ],
+    [
+      "7ccd8b475715",
+      "f5e7780d9d63"
+    ],
+    [
+      "64f0f1bff95c",
+      "f5e7780d9d63"
+    ],
+    [
+      "03e674debe08",
+      "9c98184b6aef"
+    ],
+    [
+      "03e674debe08",
+      "7ccd8b475715"
+    ],
+    [
+      "03e674debe08",
+      "64f0f1bff95c"
+    ],
+    [
+      "7ccd8b475715",
+      "9c98184b6aef"
+    ],
+    [
+      "64f0f1bff95c",
+      "9c98184b6aef"
+    ],
+    [
+      "64f0f1bff95c",
+      "7ccd8b475715"
     ]
   ]
 }
