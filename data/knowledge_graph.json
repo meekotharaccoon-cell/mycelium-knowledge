@@ -2295,6 +2295,166 @@
       "sources": [
         "hackernews"
       ]
+    },
+    "90a6e36906bf": {
+      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "0322e0d6fb44": {
+      "title": "SpaceX's Starship launched for the first time before exploding four minutes into flight.",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "4c4a3e08aea1": {
+      "title": "Derek Chauvin was found guilty of all charges in the murder of George Floyd by a Minnesota court.",
+      "category": "legal-rights",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "c47fec9a80ca": {
+      "title": "An explosion on Deepwater Horizon, an offshore rig in the Gulf of Mexico, resulted in the largest marine oil spill in hi",
+      "category": "survival",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "ffa743797120": {
+      "title": "American racing driver Danica Patrick won the Indy Japan\u00a0300, becoming the first woman to win an IndyCar auto race.",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "872c3dbb74dd": {
+      "title": "Fernando Lugo became the first candidate not from the Colorado Party candidate to be elected President of Paraguay in 61",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "6bc17d90ce81": {
+      "title": "GitHub's Fake Star Economy",
+      "category": "finance",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "a65c203081eb": {
+      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "2024c8bdbba9": {
+      "title": "Figma's woes compound with Claude Design",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d304a93ad4ae": {
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "815d169b140e": {
+      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "fbf504446942": {
+      "title": "SDF Public Access Unix System",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d7d251f0a104": {
+      "title": "Vercel April 2026 security incident",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "69bd67077b93": {
+      "title": "Claude Token Counter, now with model comparisons",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "2c1469e66b83": {
+      "title": "Stop trying to engineer your way out of listening to people",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "5b46a0d3dd0b": {
+      "title": "Zero-copy protobuf and ConnectRPC for Rust",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "22682ebd1e22": {
+      "title": "I Made the \"Next-Level\" Camera and I love it",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "7569dc5465ff": {
+      "title": "A Brief History of Fish Sauce",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "8fde856d3fad": {
+      "title": "Ben Lerner's Big Feelings",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "f57f9fd5bd8a": {
+      "title": "Stripe's Payment APIs: the first 10 years (2020)",
+      "category": "tech",
+      "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
     }
   },
   "edges": [
@@ -15741,6 +15901,550 @@
     [
       "64f0f1bff95c",
       "7ccd8b475715"
+    ],
+    [
+      "0322e0d6fb44",
+      "90a6e36906bf"
+    ],
+    [
+      "90a6e36906bf",
+      "ffa743797120"
+    ],
+    [
+      "872c3dbb74dd",
+      "90a6e36906bf"
+    ],
+    [
+      "90a6e36906bf",
+      "a65c203081eb"
+    ],
+    [
+      "2024c8bdbba9",
+      "90a6e36906bf"
+    ],
+    [
+      "90a6e36906bf",
+      "d304a93ad4ae"
+    ],
+    [
+      "815d169b140e",
+      "90a6e36906bf"
+    ],
+    [
+      "90a6e36906bf",
+      "fbf504446942"
+    ],
+    [
+      "90a6e36906bf",
+      "d7d251f0a104"
+    ],
+    [
+      "69bd67077b93",
+      "90a6e36906bf"
+    ],
+    [
+      "2c1469e66b83",
+      "90a6e36906bf"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "90a6e36906bf"
+    ],
+    [
+      "22682ebd1e22",
+      "90a6e36906bf"
+    ],
+    [
+      "7569dc5465ff",
+      "90a6e36906bf"
+    ],
+    [
+      "8fde856d3fad",
+      "90a6e36906bf"
+    ],
+    [
+      "90a6e36906bf",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "0322e0d6fb44",
+      "ffa743797120"
+    ],
+    [
+      "0322e0d6fb44",
+      "872c3dbb74dd"
+    ],
+    [
+      "0322e0d6fb44",
+      "a65c203081eb"
+    ],
+    [
+      "0322e0d6fb44",
+      "2024c8bdbba9"
+    ],
+    [
+      "0322e0d6fb44",
+      "d304a93ad4ae"
+    ],
+    [
+      "0322e0d6fb44",
+      "815d169b140e"
+    ],
+    [
+      "0322e0d6fb44",
+      "fbf504446942"
+    ],
+    [
+      "0322e0d6fb44",
+      "d7d251f0a104"
+    ],
+    [
+      "0322e0d6fb44",
+      "69bd67077b93"
+    ],
+    [
+      "0322e0d6fb44",
+      "2c1469e66b83"
+    ],
+    [
+      "0322e0d6fb44",
+      "5b46a0d3dd0b"
+    ],
+    [
+      "0322e0d6fb44",
+      "22682ebd1e22"
+    ],
+    [
+      "0322e0d6fb44",
+      "7569dc5465ff"
+    ],
+    [
+      "0322e0d6fb44",
+      "8fde856d3fad"
+    ],
+    [
+      "0322e0d6fb44",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "872c3dbb74dd",
+      "ffa743797120"
+    ],
+    [
+      "a65c203081eb",
+      "ffa743797120"
+    ],
+    [
+      "2024c8bdbba9",
+      "ffa743797120"
+    ],
+    [
+      "d304a93ad4ae",
+      "ffa743797120"
+    ],
+    [
+      "815d169b140e",
+      "ffa743797120"
+    ],
+    [
+      "fbf504446942",
+      "ffa743797120"
+    ],
+    [
+      "d7d251f0a104",
+      "ffa743797120"
+    ],
+    [
+      "69bd67077b93",
+      "ffa743797120"
+    ],
+    [
+      "2c1469e66b83",
+      "ffa743797120"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "ffa743797120"
+    ],
+    [
+      "22682ebd1e22",
+      "ffa743797120"
+    ],
+    [
+      "7569dc5465ff",
+      "ffa743797120"
+    ],
+    [
+      "8fde856d3fad",
+      "ffa743797120"
+    ],
+    [
+      "f57f9fd5bd8a",
+      "ffa743797120"
+    ],
+    [
+      "872c3dbb74dd",
+      "a65c203081eb"
+    ],
+    [
+      "2024c8bdbba9",
+      "872c3dbb74dd"
+    ],
+    [
+      "872c3dbb74dd",
+      "d304a93ad4ae"
+    ],
+    [
+      "815d169b140e",
+      "872c3dbb74dd"
+    ],
+    [
+      "872c3dbb74dd",
+      "fbf504446942"
+    ],
+    [
+      "872c3dbb74dd",
+      "d7d251f0a104"
+    ],
+    [
+      "69bd67077b93",
+      "872c3dbb74dd"
+    ],
+    [
+      "2c1469e66b83",
+      "872c3dbb74dd"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "872c3dbb74dd"
+    ],
+    [
+      "22682ebd1e22",
+      "872c3dbb74dd"
+    ],
+    [
+      "7569dc5465ff",
+      "872c3dbb74dd"
+    ],
+    [
+      "872c3dbb74dd",
+      "8fde856d3fad"
+    ],
+    [
+      "872c3dbb74dd",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "2024c8bdbba9",
+      "a65c203081eb"
+    ],
+    [
+      "a65c203081eb",
+      "d304a93ad4ae"
+    ],
+    [
+      "815d169b140e",
+      "a65c203081eb"
+    ],
+    [
+      "a65c203081eb",
+      "fbf504446942"
+    ],
+    [
+      "a65c203081eb",
+      "d7d251f0a104"
+    ],
+    [
+      "69bd67077b93",
+      "a65c203081eb"
+    ],
+    [
+      "2c1469e66b83",
+      "a65c203081eb"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "a65c203081eb"
+    ],
+    [
+      "22682ebd1e22",
+      "a65c203081eb"
+    ],
+    [
+      "7569dc5465ff",
+      "a65c203081eb"
+    ],
+    [
+      "8fde856d3fad",
+      "a65c203081eb"
+    ],
+    [
+      "a65c203081eb",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "2024c8bdbba9",
+      "d304a93ad4ae"
+    ],
+    [
+      "2024c8bdbba9",
+      "815d169b140e"
+    ],
+    [
+      "2024c8bdbba9",
+      "fbf504446942"
+    ],
+    [
+      "2024c8bdbba9",
+      "d7d251f0a104"
+    ],
+    [
+      "2024c8bdbba9",
+      "69bd67077b93"
+    ],
+    [
+      "2024c8bdbba9",
+      "2c1469e66b83"
+    ],
+    [
+      "2024c8bdbba9",
+      "5b46a0d3dd0b"
+    ],
+    [
+      "2024c8bdbba9",
+      "22682ebd1e22"
+    ],
+    [
+      "2024c8bdbba9",
+      "7569dc5465ff"
+    ],
+    [
+      "2024c8bdbba9",
+      "8fde856d3fad"
+    ],
+    [
+      "2024c8bdbba9",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "815d169b140e",
+      "d304a93ad4ae"
+    ],
+    [
+      "d304a93ad4ae",
+      "fbf504446942"
+    ],
+    [
+      "d304a93ad4ae",
+      "d7d251f0a104"
+    ],
+    [
+      "69bd67077b93",
+      "d304a93ad4ae"
+    ],
+    [
+      "2c1469e66b83",
+      "d304a93ad4ae"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "d304a93ad4ae"
+    ],
+    [
+      "22682ebd1e22",
+      "d304a93ad4ae"
+    ],
+    [
+      "7569dc5465ff",
+      "d304a93ad4ae"
+    ],
+    [
+      "8fde856d3fad",
+      "d304a93ad4ae"
+    ],
+    [
+      "d304a93ad4ae",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "815d169b140e",
+      "fbf504446942"
+    ],
+    [
+      "815d169b140e",
+      "d7d251f0a104"
+    ],
+    [
+      "69bd67077b93",
+      "815d169b140e"
+    ],
+    [
+      "2c1469e66b83",
+      "815d169b140e"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "815d169b140e"
+    ],
+    [
+      "22682ebd1e22",
+      "815d169b140e"
+    ],
+    [
+      "7569dc5465ff",
+      "815d169b140e"
+    ],
+    [
+      "815d169b140e",
+      "8fde856d3fad"
+    ],
+    [
+      "815d169b140e",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "d7d251f0a104",
+      "fbf504446942"
+    ],
+    [
+      "69bd67077b93",
+      "fbf504446942"
+    ],
+    [
+      "2c1469e66b83",
+      "fbf504446942"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "fbf504446942"
+    ],
+    [
+      "22682ebd1e22",
+      "fbf504446942"
+    ],
+    [
+      "7569dc5465ff",
+      "fbf504446942"
+    ],
+    [
+      "8fde856d3fad",
+      "fbf504446942"
+    ],
+    [
+      "f57f9fd5bd8a",
+      "fbf504446942"
+    ],
+    [
+      "69bd67077b93",
+      "d7d251f0a104"
+    ],
+    [
+      "2c1469e66b83",
+      "d7d251f0a104"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "d7d251f0a104"
+    ],
+    [
+      "22682ebd1e22",
+      "d7d251f0a104"
+    ],
+    [
+      "7569dc5465ff",
+      "d7d251f0a104"
+    ],
+    [
+      "8fde856d3fad",
+      "d7d251f0a104"
+    ],
+    [
+      "d7d251f0a104",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "2c1469e66b83",
+      "69bd67077b93"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "69bd67077b93"
+    ],
+    [
+      "22682ebd1e22",
+      "69bd67077b93"
+    ],
+    [
+      "69bd67077b93",
+      "7569dc5465ff"
+    ],
+    [
+      "69bd67077b93",
+      "8fde856d3fad"
+    ],
+    [
+      "69bd67077b93",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "2c1469e66b83",
+      "5b46a0d3dd0b"
+    ],
+    [
+      "22682ebd1e22",
+      "2c1469e66b83"
+    ],
+    [
+      "2c1469e66b83",
+      "7569dc5465ff"
+    ],
+    [
+      "2c1469e66b83",
+      "8fde856d3fad"
+    ],
+    [
+      "2c1469e66b83",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "22682ebd1e22",
+      "5b46a0d3dd0b"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "7569dc5465ff"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "8fde856d3fad"
+    ],
+    [
+      "5b46a0d3dd0b",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "22682ebd1e22",
+      "7569dc5465ff"
+    ],
+    [
+      "22682ebd1e22",
+      "8fde856d3fad"
+    ],
+    [
+      "22682ebd1e22",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "7569dc5465ff",
+      "8fde856d3fad"
+    ],
+    [
+      "7569dc5465ff",
+      "f57f9fd5bd8a"
+    ],
+    [
+      "8fde856d3fad",
+      "f57f9fd5bd8a"
     ]
   ]
 }
