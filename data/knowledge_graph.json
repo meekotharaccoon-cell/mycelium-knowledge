@@ -11,7 +11,7 @@
     "14c3d0670fea": {
       "title": "Dhurandhar: The Revenge",
       "category": "tech",
-      "last_seen": "2026-04-17",
+      "last_seen": "2026-04-21",
       "sources": [
         "wikipedia"
       ]
@@ -35,7 +35,7 @@
     "6b0df8eebf2f": {
       "title": "List of highest-grossing Indian films",
       "category": "finance",
-      "last_seen": "2026-04-17",
+      "last_seen": "2026-04-21",
       "sources": [
         "wikipedia"
       ]
@@ -75,7 +75,7 @@
     "3174c5d247f1": {
       "title": "WrestleMania 42",
       "category": "tech",
-      "last_seen": "2026-04-08",
+      "last_seen": "2026-04-21",
       "sources": [
         "wikipedia"
       ]
@@ -467,7 +467,7 @@
     "9570b4382217": {
       "title": "Nahui Ollin",
       "category": "tech",
-      "last_seen": "2026-04-11",
+      "last_seen": "2026-04-21",
       "sources": [
         "wikipedia"
       ]
@@ -483,7 +483,7 @@
     "cd41f851b7ad": {
       "title": "Deaths in 2026",
       "category": "tech",
-      "last_seen": "2026-04-17",
+      "last_seen": "2026-04-21",
       "sources": [
         "wikipedia"
       ]
@@ -1403,7 +1403,7 @@
     "5a8af4847db5": {
       "title": "Euphoria (American TV series)",
       "category": "tech",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-21",
       "sources": [
         "wikipedia"
       ]
@@ -2452,6 +2452,198 @@
       "title": "Stripe's Payment APIs: the first 10 years (2020)",
       "category": "tech",
       "last_seen": "2026-04-20",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "38a29773971b": {
+      "title": "Patrick Muldoon",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "a8ad230b1ad9": {
+      "title": "John Ternus",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "a36997c8c82d": {
+      "title": "2026 Bulgarian parliamentary election",
+      "category": "legal-rights",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "f68295fdbad2": {
+      "title": "D4vd",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "4c7408295ab6": {
+      "title": "The Indonesian Navy submarine Nanggala imploded and sank in the Bali Sea, resulting in the deaths of all 53 people on bo",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "2db0ad23c6fc": {
+      "title": "The city of Flint, Michigan, U.S., changed its water source to the Flint River, which exposed residents to lead poisonin",
+      "category": "survival",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "499689c2cc49": {
+      "title": "Ukraine and Russia signed the Kharkiv Pact, extending the Russian lease on naval facilities in Crimea.",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "0bde15010271": {
+      "title": "South Vietnamese president Nguy\u1ec5n V\u0103n Thi\u1ec7u resigned on hearing of the fall of Xu\u00e2n L\u1ed9c, the last battle of the Vietnam ",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "cb225cc3dfbb": {
+      "title": "In response to a dispute over wheat production quotas, Leonard Casley declared his 75\u00a0km2 (29\u00a0sq\u00a0mi) farm in Western Aus",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "wikipedia"
+      ]
+    },
+    "4c6139d33354": {
+      "title": "Laws of Software Engineering",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d0a673aa0004": {
+      "title": "John Ternus to become Apple CEO",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "dde696664afe": {
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "ed8a02e9b684": {
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "7ead0f34225f": {
+      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "a39b4d03c8d2": {
+      "title": "Edit store price tags using Flipper Zero",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "0c183cb48b5a": {
+      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "37de3c7d61ba": {
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "56ebba11ea96": {
+      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "ed1010c7357b": {
+      "title": "Louis Zocchi, inventor of the d100, has died",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "72e5b8666208": {
+      "title": "The Beauty of Bonsai Styles",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "9361b49776a2": {
+      "title": "How to make a fast dynamic language interpreter",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "1153a3826e43": {
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "957fa5c722e5": {
+      "title": "Types and Neural Networks",
+      "category": "tech",
+      "last_seen": "2026-04-21",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "f5a3733a4da6": {
+      "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
+      "category": "tech",
+      "last_seen": "2026-04-21",
       "sources": [
         "hackernews"
       ]
@@ -16445,6 +16637,1386 @@
     [
       "8fde856d3fad",
       "f57f9fd5bd8a"
+    ],
+    [
+      "3174c5d247f1",
+      "9570b4382217"
+    ],
+    [
+      "38a29773971b",
+      "9570b4382217"
+    ],
+    [
+      "9570b4382217",
+      "a8ad230b1ad9"
+    ],
+    [
+      "5a8af4847db5",
+      "9570b4382217"
+    ],
+    [
+      "9570b4382217",
+      "f68295fdbad2"
+    ],
+    [
+      "4c7408295ab6",
+      "9570b4382217"
+    ],
+    [
+      "499689c2cc49",
+      "9570b4382217"
+    ],
+    [
+      "0bde15010271",
+      "9570b4382217"
+    ],
+    [
+      "9570b4382217",
+      "cb225cc3dfbb"
+    ],
+    [
+      "4c6139d33354",
+      "9570b4382217"
+    ],
+    [
+      "9570b4382217",
+      "d0a673aa0004"
+    ],
+    [
+      "9570b4382217",
+      "dde696664afe"
+    ],
+    [
+      "9570b4382217",
+      "ed8a02e9b684"
+    ],
+    [
+      "7ead0f34225f",
+      "9570b4382217"
+    ],
+    [
+      "9570b4382217",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "9570b4382217"
+    ],
+    [
+      "37de3c7d61ba",
+      "9570b4382217"
+    ],
+    [
+      "56ebba11ea96",
+      "9570b4382217"
+    ],
+    [
+      "9570b4382217",
+      "ed1010c7357b"
+    ],
+    [
+      "72e5b8666208",
+      "9570b4382217"
+    ],
+    [
+      "9361b49776a2",
+      "9570b4382217"
+    ],
+    [
+      "1153a3826e43",
+      "9570b4382217"
+    ],
+    [
+      "9570b4382217",
+      "957fa5c722e5"
+    ],
+    [
+      "9570b4382217",
+      "f5a3733a4da6"
+    ],
+    [
+      "3174c5d247f1",
+      "38a29773971b"
+    ],
+    [
+      "3174c5d247f1",
+      "a8ad230b1ad9"
+    ],
+    [
+      "3174c5d247f1",
+      "5a8af4847db5"
+    ],
+    [
+      "3174c5d247f1",
+      "f68295fdbad2"
+    ],
+    [
+      "3174c5d247f1",
+      "cd41f851b7ad"
+    ],
+    [
+      "3174c5d247f1",
+      "4c7408295ab6"
+    ],
+    [
+      "3174c5d247f1",
+      "499689c2cc49"
+    ],
+    [
+      "0bde15010271",
+      "3174c5d247f1"
+    ],
+    [
+      "3174c5d247f1",
+      "cb225cc3dfbb"
+    ],
+    [
+      "3174c5d247f1",
+      "4c6139d33354"
+    ],
+    [
+      "3174c5d247f1",
+      "d0a673aa0004"
+    ],
+    [
+      "3174c5d247f1",
+      "dde696664afe"
+    ],
+    [
+      "3174c5d247f1",
+      "ed8a02e9b684"
+    ],
+    [
+      "3174c5d247f1",
+      "7ead0f34225f"
+    ],
+    [
+      "3174c5d247f1",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "3174c5d247f1"
+    ],
+    [
+      "3174c5d247f1",
+      "37de3c7d61ba"
+    ],
+    [
+      "3174c5d247f1",
+      "56ebba11ea96"
+    ],
+    [
+      "3174c5d247f1",
+      "ed1010c7357b"
+    ],
+    [
+      "3174c5d247f1",
+      "72e5b8666208"
+    ],
+    [
+      "3174c5d247f1",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "3174c5d247f1"
+    ],
+    [
+      "3174c5d247f1",
+      "957fa5c722e5"
+    ],
+    [
+      "3174c5d247f1",
+      "f5a3733a4da6"
+    ],
+    [
+      "38a29773971b",
+      "a8ad230b1ad9"
+    ],
+    [
+      "38a29773971b",
+      "5a8af4847db5"
+    ],
+    [
+      "14c3d0670fea",
+      "38a29773971b"
+    ],
+    [
+      "38a29773971b",
+      "f68295fdbad2"
+    ],
+    [
+      "38a29773971b",
+      "cd41f851b7ad"
+    ],
+    [
+      "38a29773971b",
+      "4c7408295ab6"
+    ],
+    [
+      "38a29773971b",
+      "499689c2cc49"
+    ],
+    [
+      "0bde15010271",
+      "38a29773971b"
+    ],
+    [
+      "38a29773971b",
+      "cb225cc3dfbb"
+    ],
+    [
+      "38a29773971b",
+      "4c6139d33354"
+    ],
+    [
+      "38a29773971b",
+      "d0a673aa0004"
+    ],
+    [
+      "38a29773971b",
+      "dde696664afe"
+    ],
+    [
+      "38a29773971b",
+      "ed8a02e9b684"
+    ],
+    [
+      "38a29773971b",
+      "7ead0f34225f"
+    ],
+    [
+      "38a29773971b",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "38a29773971b"
+    ],
+    [
+      "37de3c7d61ba",
+      "38a29773971b"
+    ],
+    [
+      "38a29773971b",
+      "56ebba11ea96"
+    ],
+    [
+      "38a29773971b",
+      "ed1010c7357b"
+    ],
+    [
+      "38a29773971b",
+      "72e5b8666208"
+    ],
+    [
+      "38a29773971b",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "38a29773971b"
+    ],
+    [
+      "38a29773971b",
+      "957fa5c722e5"
+    ],
+    [
+      "38a29773971b",
+      "f5a3733a4da6"
+    ],
+    [
+      "5a8af4847db5",
+      "a8ad230b1ad9"
+    ],
+    [
+      "14c3d0670fea",
+      "a8ad230b1ad9"
+    ],
+    [
+      "a8ad230b1ad9",
+      "f68295fdbad2"
+    ],
+    [
+      "a8ad230b1ad9",
+      "cd41f851b7ad"
+    ],
+    [
+      "4c7408295ab6",
+      "a8ad230b1ad9"
+    ],
+    [
+      "499689c2cc49",
+      "a8ad230b1ad9"
+    ],
+    [
+      "0bde15010271",
+      "a8ad230b1ad9"
+    ],
+    [
+      "a8ad230b1ad9",
+      "cb225cc3dfbb"
+    ],
+    [
+      "4c6139d33354",
+      "a8ad230b1ad9"
+    ],
+    [
+      "a8ad230b1ad9",
+      "d0a673aa0004"
+    ],
+    [
+      "a8ad230b1ad9",
+      "dde696664afe"
+    ],
+    [
+      "a8ad230b1ad9",
+      "ed8a02e9b684"
+    ],
+    [
+      "7ead0f34225f",
+      "a8ad230b1ad9"
+    ],
+    [
+      "a39b4d03c8d2",
+      "a8ad230b1ad9"
+    ],
+    [
+      "0c183cb48b5a",
+      "a8ad230b1ad9"
+    ],
+    [
+      "37de3c7d61ba",
+      "a8ad230b1ad9"
+    ],
+    [
+      "56ebba11ea96",
+      "a8ad230b1ad9"
+    ],
+    [
+      "a8ad230b1ad9",
+      "ed1010c7357b"
+    ],
+    [
+      "72e5b8666208",
+      "a8ad230b1ad9"
+    ],
+    [
+      "9361b49776a2",
+      "a8ad230b1ad9"
+    ],
+    [
+      "1153a3826e43",
+      "a8ad230b1ad9"
+    ],
+    [
+      "957fa5c722e5",
+      "a8ad230b1ad9"
+    ],
+    [
+      "a8ad230b1ad9",
+      "f5a3733a4da6"
+    ],
+    [
+      "5a8af4847db5",
+      "f68295fdbad2"
+    ],
+    [
+      "4c7408295ab6",
+      "5a8af4847db5"
+    ],
+    [
+      "499689c2cc49",
+      "5a8af4847db5"
+    ],
+    [
+      "0bde15010271",
+      "5a8af4847db5"
+    ],
+    [
+      "5a8af4847db5",
+      "cb225cc3dfbb"
+    ],
+    [
+      "4c6139d33354",
+      "5a8af4847db5"
+    ],
+    [
+      "5a8af4847db5",
+      "d0a673aa0004"
+    ],
+    [
+      "5a8af4847db5",
+      "dde696664afe"
+    ],
+    [
+      "5a8af4847db5",
+      "ed8a02e9b684"
+    ],
+    [
+      "5a8af4847db5",
+      "7ead0f34225f"
+    ],
+    [
+      "5a8af4847db5",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "5a8af4847db5"
+    ],
+    [
+      "37de3c7d61ba",
+      "5a8af4847db5"
+    ],
+    [
+      "56ebba11ea96",
+      "5a8af4847db5"
+    ],
+    [
+      "5a8af4847db5",
+      "ed1010c7357b"
+    ],
+    [
+      "5a8af4847db5",
+      "72e5b8666208"
+    ],
+    [
+      "5a8af4847db5",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "5a8af4847db5"
+    ],
+    [
+      "5a8af4847db5",
+      "957fa5c722e5"
+    ],
+    [
+      "5a8af4847db5",
+      "f5a3733a4da6"
+    ],
+    [
+      "14c3d0670fea",
+      "f68295fdbad2"
+    ],
+    [
+      "14c3d0670fea",
+      "4c7408295ab6"
+    ],
+    [
+      "14c3d0670fea",
+      "499689c2cc49"
+    ],
+    [
+      "0bde15010271",
+      "14c3d0670fea"
+    ],
+    [
+      "14c3d0670fea",
+      "cb225cc3dfbb"
+    ],
+    [
+      "14c3d0670fea",
+      "4c6139d33354"
+    ],
+    [
+      "14c3d0670fea",
+      "d0a673aa0004"
+    ],
+    [
+      "14c3d0670fea",
+      "dde696664afe"
+    ],
+    [
+      "14c3d0670fea",
+      "ed8a02e9b684"
+    ],
+    [
+      "14c3d0670fea",
+      "7ead0f34225f"
+    ],
+    [
+      "14c3d0670fea",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "14c3d0670fea"
+    ],
+    [
+      "14c3d0670fea",
+      "37de3c7d61ba"
+    ],
+    [
+      "14c3d0670fea",
+      "56ebba11ea96"
+    ],
+    [
+      "14c3d0670fea",
+      "ed1010c7357b"
+    ],
+    [
+      "14c3d0670fea",
+      "72e5b8666208"
+    ],
+    [
+      "14c3d0670fea",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "14c3d0670fea"
+    ],
+    [
+      "14c3d0670fea",
+      "957fa5c722e5"
+    ],
+    [
+      "14c3d0670fea",
+      "f5a3733a4da6"
+    ],
+    [
+      "cd41f851b7ad",
+      "f68295fdbad2"
+    ],
+    [
+      "4c7408295ab6",
+      "f68295fdbad2"
+    ],
+    [
+      "499689c2cc49",
+      "f68295fdbad2"
+    ],
+    [
+      "0bde15010271",
+      "f68295fdbad2"
+    ],
+    [
+      "cb225cc3dfbb",
+      "f68295fdbad2"
+    ],
+    [
+      "4c6139d33354",
+      "f68295fdbad2"
+    ],
+    [
+      "d0a673aa0004",
+      "f68295fdbad2"
+    ],
+    [
+      "dde696664afe",
+      "f68295fdbad2"
+    ],
+    [
+      "ed8a02e9b684",
+      "f68295fdbad2"
+    ],
+    [
+      "7ead0f34225f",
+      "f68295fdbad2"
+    ],
+    [
+      "a39b4d03c8d2",
+      "f68295fdbad2"
+    ],
+    [
+      "0c183cb48b5a",
+      "f68295fdbad2"
+    ],
+    [
+      "37de3c7d61ba",
+      "f68295fdbad2"
+    ],
+    [
+      "56ebba11ea96",
+      "f68295fdbad2"
+    ],
+    [
+      "ed1010c7357b",
+      "f68295fdbad2"
+    ],
+    [
+      "72e5b8666208",
+      "f68295fdbad2"
+    ],
+    [
+      "9361b49776a2",
+      "f68295fdbad2"
+    ],
+    [
+      "1153a3826e43",
+      "f68295fdbad2"
+    ],
+    [
+      "957fa5c722e5",
+      "f68295fdbad2"
+    ],
+    [
+      "f5a3733a4da6",
+      "f68295fdbad2"
+    ],
+    [
+      "4c7408295ab6",
+      "cd41f851b7ad"
+    ],
+    [
+      "499689c2cc49",
+      "cd41f851b7ad"
+    ],
+    [
+      "0bde15010271",
+      "cd41f851b7ad"
+    ],
+    [
+      "cb225cc3dfbb",
+      "cd41f851b7ad"
+    ],
+    [
+      "4c6139d33354",
+      "cd41f851b7ad"
+    ],
+    [
+      "cd41f851b7ad",
+      "d0a673aa0004"
+    ],
+    [
+      "cd41f851b7ad",
+      "dde696664afe"
+    ],
+    [
+      "cd41f851b7ad",
+      "ed8a02e9b684"
+    ],
+    [
+      "7ead0f34225f",
+      "cd41f851b7ad"
+    ],
+    [
+      "a39b4d03c8d2",
+      "cd41f851b7ad"
+    ],
+    [
+      "0c183cb48b5a",
+      "cd41f851b7ad"
+    ],
+    [
+      "37de3c7d61ba",
+      "cd41f851b7ad"
+    ],
+    [
+      "56ebba11ea96",
+      "cd41f851b7ad"
+    ],
+    [
+      "cd41f851b7ad",
+      "ed1010c7357b"
+    ],
+    [
+      "72e5b8666208",
+      "cd41f851b7ad"
+    ],
+    [
+      "9361b49776a2",
+      "cd41f851b7ad"
+    ],
+    [
+      "1153a3826e43",
+      "cd41f851b7ad"
+    ],
+    [
+      "957fa5c722e5",
+      "cd41f851b7ad"
+    ],
+    [
+      "cd41f851b7ad",
+      "f5a3733a4da6"
+    ],
+    [
+      "499689c2cc49",
+      "4c7408295ab6"
+    ],
+    [
+      "0bde15010271",
+      "4c7408295ab6"
+    ],
+    [
+      "4c7408295ab6",
+      "cb225cc3dfbb"
+    ],
+    [
+      "4c6139d33354",
+      "4c7408295ab6"
+    ],
+    [
+      "4c7408295ab6",
+      "d0a673aa0004"
+    ],
+    [
+      "4c7408295ab6",
+      "dde696664afe"
+    ],
+    [
+      "4c7408295ab6",
+      "ed8a02e9b684"
+    ],
+    [
+      "4c7408295ab6",
+      "7ead0f34225f"
+    ],
+    [
+      "4c7408295ab6",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "4c7408295ab6"
+    ],
+    [
+      "37de3c7d61ba",
+      "4c7408295ab6"
+    ],
+    [
+      "4c7408295ab6",
+      "56ebba11ea96"
+    ],
+    [
+      "4c7408295ab6",
+      "ed1010c7357b"
+    ],
+    [
+      "4c7408295ab6",
+      "72e5b8666208"
+    ],
+    [
+      "4c7408295ab6",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "4c7408295ab6"
+    ],
+    [
+      "4c7408295ab6",
+      "957fa5c722e5"
+    ],
+    [
+      "4c7408295ab6",
+      "f5a3733a4da6"
+    ],
+    [
+      "0bde15010271",
+      "499689c2cc49"
+    ],
+    [
+      "499689c2cc49",
+      "cb225cc3dfbb"
+    ],
+    [
+      "499689c2cc49",
+      "4c6139d33354"
+    ],
+    [
+      "499689c2cc49",
+      "d0a673aa0004"
+    ],
+    [
+      "499689c2cc49",
+      "dde696664afe"
+    ],
+    [
+      "499689c2cc49",
+      "ed8a02e9b684"
+    ],
+    [
+      "499689c2cc49",
+      "7ead0f34225f"
+    ],
+    [
+      "499689c2cc49",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "499689c2cc49"
+    ],
+    [
+      "37de3c7d61ba",
+      "499689c2cc49"
+    ],
+    [
+      "499689c2cc49",
+      "56ebba11ea96"
+    ],
+    [
+      "499689c2cc49",
+      "ed1010c7357b"
+    ],
+    [
+      "499689c2cc49",
+      "72e5b8666208"
+    ],
+    [
+      "499689c2cc49",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "499689c2cc49"
+    ],
+    [
+      "499689c2cc49",
+      "957fa5c722e5"
+    ],
+    [
+      "499689c2cc49",
+      "f5a3733a4da6"
+    ],
+    [
+      "0bde15010271",
+      "cb225cc3dfbb"
+    ],
+    [
+      "0bde15010271",
+      "4c6139d33354"
+    ],
+    [
+      "0bde15010271",
+      "d0a673aa0004"
+    ],
+    [
+      "0bde15010271",
+      "dde696664afe"
+    ],
+    [
+      "0bde15010271",
+      "ed8a02e9b684"
+    ],
+    [
+      "0bde15010271",
+      "7ead0f34225f"
+    ],
+    [
+      "0bde15010271",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0bde15010271",
+      "0c183cb48b5a"
+    ],
+    [
+      "0bde15010271",
+      "37de3c7d61ba"
+    ],
+    [
+      "0bde15010271",
+      "56ebba11ea96"
+    ],
+    [
+      "0bde15010271",
+      "ed1010c7357b"
+    ],
+    [
+      "0bde15010271",
+      "72e5b8666208"
+    ],
+    [
+      "0bde15010271",
+      "9361b49776a2"
+    ],
+    [
+      "0bde15010271",
+      "1153a3826e43"
+    ],
+    [
+      "0bde15010271",
+      "957fa5c722e5"
+    ],
+    [
+      "0bde15010271",
+      "f5a3733a4da6"
+    ],
+    [
+      "4c6139d33354",
+      "cb225cc3dfbb"
+    ],
+    [
+      "cb225cc3dfbb",
+      "d0a673aa0004"
+    ],
+    [
+      "cb225cc3dfbb",
+      "dde696664afe"
+    ],
+    [
+      "cb225cc3dfbb",
+      "ed8a02e9b684"
+    ],
+    [
+      "7ead0f34225f",
+      "cb225cc3dfbb"
+    ],
+    [
+      "a39b4d03c8d2",
+      "cb225cc3dfbb"
+    ],
+    [
+      "0c183cb48b5a",
+      "cb225cc3dfbb"
+    ],
+    [
+      "37de3c7d61ba",
+      "cb225cc3dfbb"
+    ],
+    [
+      "56ebba11ea96",
+      "cb225cc3dfbb"
+    ],
+    [
+      "cb225cc3dfbb",
+      "ed1010c7357b"
+    ],
+    [
+      "72e5b8666208",
+      "cb225cc3dfbb"
+    ],
+    [
+      "9361b49776a2",
+      "cb225cc3dfbb"
+    ],
+    [
+      "1153a3826e43",
+      "cb225cc3dfbb"
+    ],
+    [
+      "957fa5c722e5",
+      "cb225cc3dfbb"
+    ],
+    [
+      "cb225cc3dfbb",
+      "f5a3733a4da6"
+    ],
+    [
+      "4c6139d33354",
+      "d0a673aa0004"
+    ],
+    [
+      "4c6139d33354",
+      "dde696664afe"
+    ],
+    [
+      "4c6139d33354",
+      "ed8a02e9b684"
+    ],
+    [
+      "4c6139d33354",
+      "7ead0f34225f"
+    ],
+    [
+      "4c6139d33354",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "4c6139d33354"
+    ],
+    [
+      "37de3c7d61ba",
+      "4c6139d33354"
+    ],
+    [
+      "4c6139d33354",
+      "56ebba11ea96"
+    ],
+    [
+      "4c6139d33354",
+      "ed1010c7357b"
+    ],
+    [
+      "4c6139d33354",
+      "72e5b8666208"
+    ],
+    [
+      "4c6139d33354",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "4c6139d33354"
+    ],
+    [
+      "4c6139d33354",
+      "957fa5c722e5"
+    ],
+    [
+      "4c6139d33354",
+      "f5a3733a4da6"
+    ],
+    [
+      "d0a673aa0004",
+      "dde696664afe"
+    ],
+    [
+      "d0a673aa0004",
+      "ed8a02e9b684"
+    ],
+    [
+      "7ead0f34225f",
+      "d0a673aa0004"
+    ],
+    [
+      "a39b4d03c8d2",
+      "d0a673aa0004"
+    ],
+    [
+      "0c183cb48b5a",
+      "d0a673aa0004"
+    ],
+    [
+      "37de3c7d61ba",
+      "d0a673aa0004"
+    ],
+    [
+      "56ebba11ea96",
+      "d0a673aa0004"
+    ],
+    [
+      "d0a673aa0004",
+      "ed1010c7357b"
+    ],
+    [
+      "72e5b8666208",
+      "d0a673aa0004"
+    ],
+    [
+      "9361b49776a2",
+      "d0a673aa0004"
+    ],
+    [
+      "1153a3826e43",
+      "d0a673aa0004"
+    ],
+    [
+      "957fa5c722e5",
+      "d0a673aa0004"
+    ],
+    [
+      "d0a673aa0004",
+      "f5a3733a4da6"
+    ],
+    [
+      "dde696664afe",
+      "ed8a02e9b684"
+    ],
+    [
+      "7ead0f34225f",
+      "dde696664afe"
+    ],
+    [
+      "a39b4d03c8d2",
+      "dde696664afe"
+    ],
+    [
+      "0c183cb48b5a",
+      "dde696664afe"
+    ],
+    [
+      "37de3c7d61ba",
+      "dde696664afe"
+    ],
+    [
+      "56ebba11ea96",
+      "dde696664afe"
+    ],
+    [
+      "dde696664afe",
+      "ed1010c7357b"
+    ],
+    [
+      "72e5b8666208",
+      "dde696664afe"
+    ],
+    [
+      "9361b49776a2",
+      "dde696664afe"
+    ],
+    [
+      "1153a3826e43",
+      "dde696664afe"
+    ],
+    [
+      "957fa5c722e5",
+      "dde696664afe"
+    ],
+    [
+      "dde696664afe",
+      "f5a3733a4da6"
+    ],
+    [
+      "7ead0f34225f",
+      "ed8a02e9b684"
+    ],
+    [
+      "a39b4d03c8d2",
+      "ed8a02e9b684"
+    ],
+    [
+      "0c183cb48b5a",
+      "ed8a02e9b684"
+    ],
+    [
+      "37de3c7d61ba",
+      "ed8a02e9b684"
+    ],
+    [
+      "56ebba11ea96",
+      "ed8a02e9b684"
+    ],
+    [
+      "ed1010c7357b",
+      "ed8a02e9b684"
+    ],
+    [
+      "72e5b8666208",
+      "ed8a02e9b684"
+    ],
+    [
+      "9361b49776a2",
+      "ed8a02e9b684"
+    ],
+    [
+      "1153a3826e43",
+      "ed8a02e9b684"
+    ],
+    [
+      "957fa5c722e5",
+      "ed8a02e9b684"
+    ],
+    [
+      "ed8a02e9b684",
+      "f5a3733a4da6"
+    ],
+    [
+      "7ead0f34225f",
+      "a39b4d03c8d2"
+    ],
+    [
+      "0c183cb48b5a",
+      "7ead0f34225f"
+    ],
+    [
+      "37de3c7d61ba",
+      "7ead0f34225f"
+    ],
+    [
+      "56ebba11ea96",
+      "7ead0f34225f"
+    ],
+    [
+      "7ead0f34225f",
+      "ed1010c7357b"
+    ],
+    [
+      "72e5b8666208",
+      "7ead0f34225f"
+    ],
+    [
+      "7ead0f34225f",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "7ead0f34225f"
+    ],
+    [
+      "7ead0f34225f",
+      "957fa5c722e5"
+    ],
+    [
+      "7ead0f34225f",
+      "f5a3733a4da6"
+    ],
+    [
+      "0c183cb48b5a",
+      "a39b4d03c8d2"
+    ],
+    [
+      "37de3c7d61ba",
+      "a39b4d03c8d2"
+    ],
+    [
+      "56ebba11ea96",
+      "a39b4d03c8d2"
+    ],
+    [
+      "a39b4d03c8d2",
+      "ed1010c7357b"
+    ],
+    [
+      "72e5b8666208",
+      "a39b4d03c8d2"
+    ],
+    [
+      "9361b49776a2",
+      "a39b4d03c8d2"
+    ],
+    [
+      "1153a3826e43",
+      "a39b4d03c8d2"
+    ],
+    [
+      "957fa5c722e5",
+      "a39b4d03c8d2"
+    ],
+    [
+      "a39b4d03c8d2",
+      "f5a3733a4da6"
+    ],
+    [
+      "0c183cb48b5a",
+      "37de3c7d61ba"
+    ],
+    [
+      "0c183cb48b5a",
+      "56ebba11ea96"
+    ],
+    [
+      "0c183cb48b5a",
+      "ed1010c7357b"
+    ],
+    [
+      "0c183cb48b5a",
+      "72e5b8666208"
+    ],
+    [
+      "0c183cb48b5a",
+      "9361b49776a2"
+    ],
+    [
+      "0c183cb48b5a",
+      "1153a3826e43"
+    ],
+    [
+      "0c183cb48b5a",
+      "957fa5c722e5"
+    ],
+    [
+      "0c183cb48b5a",
+      "f5a3733a4da6"
+    ],
+    [
+      "37de3c7d61ba",
+      "56ebba11ea96"
+    ],
+    [
+      "37de3c7d61ba",
+      "ed1010c7357b"
+    ],
+    [
+      "37de3c7d61ba",
+      "72e5b8666208"
+    ],
+    [
+      "37de3c7d61ba",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "37de3c7d61ba"
+    ],
+    [
+      "37de3c7d61ba",
+      "957fa5c722e5"
+    ],
+    [
+      "37de3c7d61ba",
+      "f5a3733a4da6"
+    ],
+    [
+      "56ebba11ea96",
+      "ed1010c7357b"
+    ],
+    [
+      "56ebba11ea96",
+      "72e5b8666208"
+    ],
+    [
+      "56ebba11ea96",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "56ebba11ea96"
+    ],
+    [
+      "56ebba11ea96",
+      "957fa5c722e5"
+    ],
+    [
+      "56ebba11ea96",
+      "f5a3733a4da6"
+    ],
+    [
+      "72e5b8666208",
+      "ed1010c7357b"
+    ],
+    [
+      "9361b49776a2",
+      "ed1010c7357b"
+    ],
+    [
+      "1153a3826e43",
+      "ed1010c7357b"
+    ],
+    [
+      "957fa5c722e5",
+      "ed1010c7357b"
+    ],
+    [
+      "ed1010c7357b",
+      "f5a3733a4da6"
+    ],
+    [
+      "72e5b8666208",
+      "9361b49776a2"
+    ],
+    [
+      "1153a3826e43",
+      "72e5b8666208"
+    ],
+    [
+      "72e5b8666208",
+      "957fa5c722e5"
+    ],
+    [
+      "72e5b8666208",
+      "f5a3733a4da6"
+    ],
+    [
+      "1153a3826e43",
+      "9361b49776a2"
+    ],
+    [
+      "9361b49776a2",
+      "957fa5c722e5"
+    ],
+    [
+      "9361b49776a2",
+      "f5a3733a4da6"
+    ],
+    [
+      "1153a3826e43",
+      "957fa5c722e5"
+    ],
+    [
+      "1153a3826e43",
+      "f5a3733a4da6"
+    ],
+    [
+      "957fa5c722e5",
+      "f5a3733a4da6"
     ]
   ]
 }
