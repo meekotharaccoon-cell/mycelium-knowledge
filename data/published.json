@@ -110,5 +110,13 @@
     "date": "2026-04-22",
     "free_path": "guides/free/american-climate-activist-wynn-bruce-set-himself-on-fire-outside-the-united-stat.md",
     "premium_path": "guides/premium/american-climate-activist-wynn-bruce-set-himself-on-fire-outside-the-united-stat.md"
+  },
+  {
+    "topic": "Earth Day",
+    "slug": "earth-day",
+    "category": "health",
+    "date": "2026-04-23",
+    "free_path": "guides/free/earth-day.md",
+    "premium_path": "guides/premium/earth-day.md"
   }
 ]
