@@ -1,11 +1,11 @@
 # Apex (2026 film) - Complete Guide
-*Category: survival | Generated: 2026-04-27*
+*Category: survival | Generated: 2026-04-28*
 
 ## Overview
 
 **Apex (2026 film)** is a topic of growing relevance in today's landscape.
 
-Apex is a 2026 survival action thriller film directed by Baltasar Kormákur, written by Jeremy Robbins, and starring Charlize Theron, Taron Egerton, and Eric Bana. It tells the story of a rock climber in the wild who finds herself being hunted by a hunter as she works to survive. It was released on N
+Apex is a 2026 survival action thriller film directed by Baltasar Kormákur, written by Jeremy Robbins, and starring Charlize Theron, Taron Egerton, and Eric Bana. It tells the story of a rock climber in the wild who finds herself being hunted as she tries to survive. It was released on Netflix on Ap
 
 This guide will walk you through the essentials and give you a practical foundation to act on this knowledge.
 

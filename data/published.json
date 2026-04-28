@@ -150,5 +150,13 @@
     "date": "2026-04-27",
     "free_path": "guides/free/apex-2026-film.md",
     "premium_path": "guides/premium/apex-2026-film.md"
+  },
+  {
+    "topic": "Apex (2026 film)",
+    "slug": "apex-2026-film",
+    "category": "survival",
+    "date": "2026-04-28",
+    "free_path": "guides/free/apex-2026-film.md",
+    "premium_path": "guides/premium/apex-2026-film.md"
   }
 ]
