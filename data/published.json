@@ -158,5 +158,13 @@
     "date": "2026-04-28",
     "free_path": "guides/free/apex-2026-film.md",
     "premium_path": "guides/premium/apex-2026-film.md"
+  },
+  {
+    "topic": "OPEC",
+    "slug": "opec",
+    "category": "health",
+    "date": "2026-04-29",
+    "free_path": "guides/free/opec.md",
+    "premium_path": "guides/premium/opec.md"
   }
 ]
