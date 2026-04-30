@@ -166,5 +166,13 @@
     "date": "2026-04-29",
     "free_path": "guides/free/opec.md",
     "premium_path": "guides/premium/opec.md"
+  },
+  {
+    "topic": "How to Disable Firefox's New Emoji Picker",
+    "slug": "how-to-disable-firefoxs-new-emoji-picker",
+    "category": "survival",
+    "date": "2026-04-30",
+    "free_path": "guides/free/how-to-disable-firefoxs-new-emoji-picker.md",
+    "premium_path": "guides/premium/how-to-disable-firefoxs-new-emoji-picker.md"
   }
 ]
