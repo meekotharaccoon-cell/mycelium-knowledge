@@ -182,5 +182,13 @@
     "date": "2026-05-01",
     "free_path": "guides/free/the-evacuation-of-nearly-88000-people-began-when-a-wildfire-swept-through-fort-m.md",
     "premium_path": "guides/premium/the-evacuation-of-nearly-88000-people-began-when-a-wildfire-swept-through-fort-m.md"
+  },
+  {
+    "topic": "International Workers' Day",
+    "slug": "international-workers-day",
+    "category": "legal-rights",
+    "date": "2026-05-02",
+    "free_path": "guides/free/international-workers-day.md",
+    "premium_path": "guides/premium/international-workers-day.md"
   }
 ]
