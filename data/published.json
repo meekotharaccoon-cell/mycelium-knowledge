@@ -190,5 +190,13 @@
     "date": "2026-05-02",
     "free_path": "guides/free/international-workers-day.md",
     "premium_path": "guides/premium/international-workers-day.md"
+  },
+  {
+    "topic": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+    "slug": "why-are-neural-networks-and-cryptographic-ciphers-so-similar-2025",
+    "category": "finance",
+    "date": "2026-05-04",
+    "free_path": "guides/free/why-are-neural-networks-and-cryptographic-ciphers-so-similar-2025.md",
+    "premium_path": "guides/premium/why-are-neural-networks-and-cryptographic-ciphers-so-similar-2025.md"
   }
 ]
