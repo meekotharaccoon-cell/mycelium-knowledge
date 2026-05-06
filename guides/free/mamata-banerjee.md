@@ -1,11 +1,11 @@
 # Mamata Banerjee
-*Category: legal-rights | Generated: 2026-05-05*
+*Category: legal-rights | Generated: 2026-05-06*
 
 ## Overview
 
 **Mamata Banerjee** is a topic of growing relevance in today's landscape.
 
-Mamata Banerjee is an Indian politician and lawyer who has served as the 8th chief minister of West Bengal since 2011. She was the first woman to hold the office. The founder and president of the All India Trinamool Congress, she previously served as a Union Cabinet Minister.
+Mamata Banerjee is an Indian politician and lawyer who has served as the 8th chief minister of West Bengal from 2011 to 2026. She was the first woman to hold the office. The founder and president of the All India Trinamool Congress, she previously served as a Union Cabinet Minister.
 
 This guide will walk you through the essentials and give you a practical foundation to act on this knowledge.
 
