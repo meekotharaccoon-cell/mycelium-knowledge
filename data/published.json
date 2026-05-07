@@ -214,5 +214,13 @@
     "date": "2026-05-06",
     "free_path": "guides/free/mamata-banerjee.md",
     "premium_path": "guides/premium/mamata-banerjee.md"
+  },
+  {
+    "topic": "Orthohantavirus",
+    "slug": "orthohantavirus",
+    "category": "health",
+    "date": "2026-05-07",
+    "free_path": "guides/free/orthohantavirus.md",
+    "premium_path": "guides/premium/orthohantavirus.md"
   }
 ]
